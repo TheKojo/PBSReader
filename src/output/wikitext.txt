@@ -3443,16 +3443,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Simisurge|Electric|Electric}}
-{{MoveBreed||Astonish|Ghost|Physical|30|100|15}}
-{{MoveBreed||Thunder Punch|Electric|Physical|75|100|15}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Zap Cannon|Electric|Special|120|50|5}}
-{{MoveBreed||Spark|Electric|Physical|65|100|20}}
-{{MoveBreed||Low Kick|Fighting|Physical|1|100|20}}
-{{MoveBreed||Thunder Fang|Electric|Physical|65|95|15}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Role Play|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
 {{MoveBreedEnd|Simisurge|Electric|Electric}}
 
 ==Evolution==
@@ -3943,20 +3933,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Pilove|Bug|Bug}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Dragon Breath|Dragon|Special|60|100|20}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Metal Claw|Steel|Physical|50|95|35}}
-{{MoveBreed||Mud Shot|Ground|Special|55|95|15}}
-{{MoveBreed||Outrage|Dragon|Physical|120|100|10}}
-{{MoveBreed||Rock Climb|Normal|Physical|90|85|20}}
-{{MoveBreed||Sand Tomb|Ground|Physical|35|85|15}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Thrash|Normal|Physical|120|100|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Dragon Rage|Dragon|Special|1|100|10}}
 {{MoveBreedEnd|Pilove|Bug|Bug}}
 
 ==Evolution==
@@ -4107,20 +4083,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Crecoon|Bug|Bug}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Dragon Breath|Dragon|Special|60|100|20}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Metal Claw|Steel|Physical|50|95|35}}
-{{MoveBreed||Mud Shot|Ground|Special|55|95|15}}
-{{MoveBreed||Outrage|Dragon|Physical|120|100|10}}
-{{MoveBreed||Rock Climb|Normal|Physical|90|85|20}}
-{{MoveBreed||Sand Tomb|Ground|Physical|35|85|15}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Thrash|Normal|Physical|120|100|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Dragon Rage|Dragon|Special|1|100|10}}
 {{MoveBreedEnd|Crecoon|Bug|Bug}}
 
 ==Evolution==
@@ -4286,20 +4248,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Molune|Bug|Fairy}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Dragon Breath|Dragon|Special|60|100|20}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Metal Claw|Steel|Physical|50|95|35}}
-{{MoveBreed||Mud Shot|Ground|Special|55|95|15}}
-{{MoveBreed||Outrage|Dragon|Physical|120|100|10}}
-{{MoveBreed||Rock Climb|Normal|Physical|90|85|20}}
-{{MoveBreed||Sand Tomb|Ground|Physical|35|85|15}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Thrash|Normal|Physical|120|100|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Dragon Rage|Dragon|Special|1|100|10}}
 {{MoveBreedEnd|Molune|Bug|Fairy}}
 
 ==Evolution==
@@ -4452,20 +4400,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Scaggot|Bug|Dark}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Dragon Breath|Dragon|Special|60|100|20}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Metal Claw|Steel|Physical|50|95|35}}
-{{MoveBreed||Mud Shot|Ground|Special|55|95|15}}
-{{MoveBreed||Outrage|Dragon|Physical|120|100|10}}
-{{MoveBreed||Rock Climb|Normal|Physical|90|85|20}}
-{{MoveBreed||Sand Tomb|Ground|Physical|35|85|15}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Thrash|Normal|Physical|120|100|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Dragon Rage|Dragon|Special|1|100|10}}
 {{MoveBreedEnd|Scaggot|Bug|Dark}}
 
 ==Evolution==
@@ -4622,20 +4556,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Muskle|Bug|Dark}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Dragon Breath|Dragon|Special|60|100|20}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Metal Claw|Steel|Physical|50|95|35}}
-{{MoveBreed||Mud Shot|Ground|Special|55|95|15}}
-{{MoveBreed||Outrage|Dragon|Physical|120|100|10}}
-{{MoveBreed||Rock Climb|Normal|Physical|90|85|20}}
-{{MoveBreed||Sand Tomb|Ground|Physical|35|85|15}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Thrash|Normal|Physical|120|100|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Dragon Rage|Dragon|Special|1|100|10}}
 {{MoveBreedEnd|Muskle|Bug|Dark}}
 
 ==Evolution==
@@ -4803,20 +4723,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Beelzebug|Bug|Dark}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Dragon Breath|Dragon|Special|60|100|20}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Metal Claw|Steel|Physical|50|95|35}}
-{{MoveBreed||Mud Shot|Ground|Special|55|95|15}}
-{{MoveBreed||Outrage|Dragon|Physical|120|100|10}}
-{{MoveBreed||Rock Climb|Normal|Physical|90|85|20}}
-{{MoveBreed||Sand Tomb|Ground|Physical|35|85|15}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Thrash|Normal|Physical|120|100|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Dragon Rage|Dragon|Special|1|100|10}}
 {{MoveBreedEnd|Beelzebug|Bug|Dark}}
 
 ==Evolution==
@@ -5132,15 +5038,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Flydra|Bug|Flying}}
-{{MoveBreed||Agility|Psychic|Status|&mdash;|0|30}}
-{{MoveBreed||Air Slash|Flying|Special|75|95|15}}
-{{MoveBreed||Baton Pass|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Camouflage|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Me First|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Mind Reader|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Razor Wind|Normal|Special|80|100|10}}
-{{MoveBreed||Screech|Normal|Status|&mdash;|85|40}}
-{{MoveBreed||Silver Wind|Bug|Special|60|100|5}}
 {{MoveBreedEnd|Flydra|Bug|Flying}}
 
 ==Evolution==
@@ -5303,15 +5200,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Velocisect|Bug|Dragon}}
-{{MoveBreed||Agility|Psychic|Status|&mdash;|0|30}}
-{{MoveBreed||Air Slash|Flying|Special|75|95|15}}
-{{MoveBreed||Baton Pass|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Camouflage|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Me First|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Mind Reader|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Razor Wind|Normal|Special|80|100|10}}
-{{MoveBreed||Screech|Normal|Status|&mdash;|85|40}}
-{{MoveBreed||Silver Wind|Bug|Special|60|100|5}}
 {{MoveBreedEnd|Velocisect|Bug|Dragon}}
 
 ==Evolution==
@@ -5475,15 +5363,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Ledima|Bug|Fighting}}
-{{MoveBreed||Agility|Psychic|Status|&mdash;|0|30}}
-{{MoveBreed||Air Slash|Flying|Special|75|95|15}}
-{{MoveBreed||Baton Pass|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Camouflage|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Me First|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Mind Reader|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Razor Wind|Normal|Special|80|100|10}}
-{{MoveBreed||Screech|Normal|Status|&mdash;|85|40}}
-{{MoveBreed||Silver Wind|Bug|Special|60|100|5}}
 {{MoveBreedEnd|Ledima|Bug|Fighting}}
 
 ==Evolution==
@@ -5652,15 +5531,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Myradeux|Bug|Poison}}
-{{MoveBreed||Agility|Psychic|Status|&mdash;|0|30}}
-{{MoveBreed||Air Slash|Flying|Special|75|95|15}}
-{{MoveBreed||Baton Pass|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Camouflage|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Me First|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Mind Reader|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Razor Wind|Normal|Special|80|100|10}}
-{{MoveBreed||Screech|Normal|Status|&mdash;|85|40}}
-{{MoveBreed||Silver Wind|Bug|Special|60|100|5}}
 {{MoveBreedEnd|Myradeux|Bug|Poison}}
 
 ==Evolution==
@@ -5819,15 +5689,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Drakeon|Dragon|Dragon}}
-{{MoveBreed||Agility|Psychic|Status|&mdash;|0|30}}
-{{MoveBreed||Air Slash|Flying|Special|75|95|15}}
-{{MoveBreed||Baton Pass|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Camouflage|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Me First|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Mind Reader|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Razor Wind|Normal|Special|80|100|10}}
-{{MoveBreed||Screech|Normal|Status|&mdash;|85|40}}
-{{MoveBreed||Silver Wind|Bug|Special|60|100|5}}
 {{MoveBreedEnd|Drakeon|Dragon|Dragon}}
 
 ==Evolution==
@@ -6155,19 +6016,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Bouldeon|Rock|Rock}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Bouldeon|Rock|Rock}}
 
 ==Evolution==
@@ -6325,19 +6173,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Venomeon|Poison|Poison}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Venomeon|Poison|Poison}}
 
 ==Evolution==
@@ -6495,19 +6330,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Pesteon|Bug|Bug}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Pesteon|Bug|Bug}}
 
 ==Evolution==
@@ -6665,19 +6487,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Windeon|Flying|Flying}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Windeon|Flying|Flying}}
 
 ==Evolution==
@@ -6835,19 +6644,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Champeon|Fighting|Fighting}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Champeon|Fighting|Fighting}}
 
 ==Evolution==
@@ -7005,19 +6801,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Phanteon|Ghost|Ghost}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Phanteon|Ghost|Ghost}}
 
 ==Evolution==
@@ -7175,19 +6958,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Sandeon|Ground|Ground}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Sandeon|Ground|Ground}}
 
 ==Evolution==
@@ -7345,19 +7115,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Metaleon|Steel|Steel}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Covet|Normal|Physical|60|100|25}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Detect|Fighting|Status|&mdash;|0|5}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
-{{MoveBreed||Synchronoise|Psychic|Special|120|100|15}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Wish|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Yawn|Normal|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Metaleon|Steel|Steel}}
 
 ==Evolution==
@@ -7681,7 +7438,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Tauring|Normal|Normal}}
-{{MoveBreed||After You|Normal|Status|&mdash;|0|15}}
 {{MoveBreedEnd|Tauring|Normal|Normal}}
 
 ==Evolution==
@@ -7844,7 +7600,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Taurmera|Normal|Fighting}}
-{{MoveBreed||After You|Normal|Status|&mdash;|0|15}}
 {{MoveBreedEnd|Taurmera|Normal|Fighting}}
 
 ==Evolution==
@@ -8169,13 +7924,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Beautifowl|Normal|Flying}}
-{{MoveBreed||Foresight|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Lucky Chant|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Mirror Move|Flying|Status|&mdash;|0|20}}
-{{MoveBreed||Peck|Flying|Physical|35|100|35}}
-{{MoveBreed||Present|Normal|Physical|1|90|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
 {{MoveBreedEnd|Beautifowl|Normal|Flying}}
 
 ==Evolution==
@@ -8340,13 +8088,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Brawkerel|Fighting|Flying}}
-{{MoveBreed||Foresight|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Lucky Chant|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Mirror Move|Flying|Status|&mdash;|0|20}}
-{{MoveBreed||Peck|Flying|Physical|35|100|35}}
-{{MoveBreed||Present|Normal|Physical|1|90|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
 {{MoveBreedEnd|Brawkerel|Fighting|Flying}}
 
 ==Evolution==
@@ -8506,13 +8247,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Aychem|Electric|Normal}}
-{{MoveBreed||Foresight|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Lucky Chant|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Mirror Move|Flying|Status|&mdash;|0|20}}
-{{MoveBreed||Peck|Flying|Physical|35|100|35}}
-{{MoveBreed||Present|Normal|Physical|1|90|15}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
 {{MoveBreedEnd|Aychem|Electric|Normal}}
 
 ==Evolution==
@@ -9211,18 +8945,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Glamice|Ice|Psychic}}
-{{MoveBreed||Confuse Ray|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Fake Out|Normal|Physical|40|100|10}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Icy Wind|Ice|Special|55|95|15}}
-{{MoveBreed||Magic Room|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Mimic|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Power Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Teeter Dance|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Trick|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Wake-Up Slap|Fighting|Physical|70|100|10}}
 {{MoveBreedEnd|Glamice|Ice|Psychic}}
 
 ==Evolution==
@@ -9371,18 +9093,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Frague|Fairy|Poison}}
-{{MoveBreed||Confuse Ray|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Fake Out|Normal|Physical|40|100|10}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Icy Wind|Ice|Special|55|95|15}}
-{{MoveBreed||Magic Room|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Mimic|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Power Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Teeter Dance|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Trick|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Wake-Up Slap|Fighting|Physical|70|100|10}}
 {{MoveBreedEnd|Frague|Fairy|Poison}}
 
 ==Evolution==
@@ -9548,18 +9258,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Lunalisk|Rock|Psychic}}
-{{MoveBreed||Confuse Ray|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Fake Out|Normal|Physical|40|100|10}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Icy Wind|Ice|Special|55|95|15}}
-{{MoveBreed||Magic Room|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Mimic|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Power Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Teeter Dance|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Trick|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Wake-Up Slap|Fighting|Physical|70|100|10}}
 {{MoveBreedEnd|Lunalisk|Rock|Psychic}}
 
 ==Evolution==
@@ -9725,18 +9423,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Lunaclipse|Rock|Fairy}}
-{{MoveBreed||Confuse Ray|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Fake Out|Normal|Physical|40|100|10}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Icy Wind|Ice|Special|55|95|15}}
-{{MoveBreed||Magic Room|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Mimic|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Power Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Teeter Dance|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Trick|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Wake-Up Slap|Fighting|Physical|70|100|10}}
 {{MoveBreedEnd|Lunaclipse|Rock|Fairy}}
 
 ==Evolution==
@@ -9902,18 +9588,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Solgem|Rock|Psychic}}
-{{MoveBreed||Confuse Ray|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Fake Out|Normal|Physical|40|100|10}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Icy Wind|Ice|Special|55|95|15}}
-{{MoveBreed||Magic Room|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Mimic|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Power Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Teeter Dance|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Trick|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Wake-Up Slap|Fighting|Physical|70|100|10}}
 {{MoveBreedEnd|Solgem|Rock|Psychic}}
 
 ==Evolution==
@@ -10079,18 +9753,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Solaclipse|Rock|Fire}}
-{{MoveBreed||Confuse Ray|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Fake Out|Normal|Physical|40|100|10}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Icy Wind|Ice|Special|55|95|15}}
-{{MoveBreed||Magic Room|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Mimic|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Power Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Teeter Dance|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Trick|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Wake-Up Slap|Fighting|Physical|70|100|10}}
 {{MoveBreedEnd|Solaclipse|Rock|Fire}}
 
 ==Evolution==
@@ -11123,15 +10785,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Bombore|Rock|Fire}}
-{{MoveBreed||Autotomize|Steel|Status|&mdash;|0|15}}
-{{MoveBreed||Block|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Focus Punch|Fighting|Physical|150|100|20}}
-{{MoveBreed||Hammer Arm|Fighting|Physical|100|90|10}}
-{{MoveBreed||Mega Punch|Normal|Physical|80|85|20}}
-{{MoveBreed||Rock Climb|Normal|Physical|90|85|20}}
 {{MoveBreedEnd|Bombore|Rock|Fire}}
 
 ==Evolution==
@@ -11468,18 +11121,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Prospergon|Dragon|Fairy}}
-{{MoveBreed||Extrasensory|Psychic|Special|80|100|20}}
-{{MoveBreed||Foresight|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Lucky Chant|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Mirror Move|Flying|Status|&mdash;|0|20}}
-{{MoveBreed||Morning Sun|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Peck|Flying|Physical|35|100|35}}
-{{MoveBreed||Present|Normal|Physical|1|90|15}}
-{{MoveBreed||Psycho Shift|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Secret Power|Normal|Physical|70|100|20}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
 {{MoveBreedEnd|Prospergon|Dragon|Fairy}}
 
 ==Evolution==
@@ -11642,18 +11283,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Draternal|Dragon|Fairy}}
-{{MoveBreed||Extrasensory|Psychic|Special|80|100|20}}
-{{MoveBreed||Foresight|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Future Sight|Psychic|Special|120|100|10}}
-{{MoveBreed||Lucky Chant|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Mirror Move|Flying|Status|&mdash;|0|20}}
-{{MoveBreed||Morning Sun|Normal|Status|&mdash;|0|5}}
-{{MoveBreed||Nasty Plot|Dark|Status|&mdash;|0|20}}
-{{MoveBreed||Peck|Flying|Physical|35|100|35}}
-{{MoveBreed||Present|Normal|Physical|1|90|15}}
-{{MoveBreed||Psycho Shift|Psychic|Status|&mdash;|100|10}}
-{{MoveBreed||Secret Power|Normal|Physical|70|100|20}}
-{{MoveBreed||Stored Power|Psychic|Special|1|100|10}}
 {{MoveBreedEnd|Draternal|Dragon|Fairy}}
 
 ==Evolution==
@@ -11983,16 +11612,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Jugduo|Psychic|Psychic}}
-{{MoveBreed||Barrier|Psychic|Status|&mdash;|0|20}}
-{{MoveBreed||Encore|Normal|Status|&mdash;|100|5}}
-{{MoveBreed||Fire Punch|Fire|Physical|75|100|15}}
-{{MoveBreed||Guard Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Guard Swap|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Ice Punch|Ice|Physical|75|100|15}}
-{{MoveBreed||Knock Off|Dark|Physical|65|100|20}}
-{{MoveBreed||Power Trick|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Skill Swap|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Thunder Punch|Electric|Physical|75|100|15}}
 {{MoveBreedEnd|Jugduo|Psychic|Psychic}}
 
 ==Evolution==
@@ -12152,16 +11771,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Jestrio|Psychic|Psychic}}
-{{MoveBreed||Barrier|Psychic|Status|&mdash;|0|20}}
-{{MoveBreed||Encore|Normal|Status|&mdash;|100|5}}
-{{MoveBreed||Fire Punch|Fire|Physical|75|100|15}}
-{{MoveBreed||Guard Split|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Guard Swap|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Ice Punch|Ice|Physical|75|100|15}}
-{{MoveBreed||Knock Off|Dark|Physical|65|100|20}}
-{{MoveBreed||Power Trick|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Skill Swap|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Thunder Punch|Electric|Physical|75|100|15}}
 {{MoveBreedEnd|Jestrio|Psychic|Psychic}}
 
 ==Evolution==
@@ -12494,15 +12103,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Stereote|Normal|Psychic}}
-{{MoveBreed||Circle Throw|Fighting|Physical|60|90|10}}
-{{MoveBreed||Endeavor|Normal|Physical|1|100|5}}
-{{MoveBreed||Extrasensory|Psychic|Special|80|100|20}}
-{{MoveBreed||Fake Tears|Dark|Status|&mdash;|100|20}}
-{{MoveBreed||Hammer Arm|Fighting|Physical|100|90|10}}
-{{MoveBreed||Smelling Salts|Normal|Physical|70|100|10}}
-{{MoveBreed||Smokescreen|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Snore|Normal|Special|50|100|15}}
-{{MoveBreed||Take Down|Normal|Physical|90|85|20}}
 {{MoveBreedEnd|Stereote|Normal|Psychic}}
 
 ==Evolution==
@@ -12832,18 +12432,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Ratation|Poison|Poison}}
-{{MoveBreed||Astonish|Ghost|Physical|30|100|15}}
-{{MoveBreed||Crunch|Dark|Physical|80|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Foul Play|Dark|Physical|95|100|15}}
-{{MoveBreed||Haze|Ice|Status|&mdash;|0|30}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Leer|Normal|Status|&mdash;|100|30}}
-{{MoveBreed||Punishment|Dark|Physical|1|100|5}}
-{{MoveBreed||Pursuit|Dark|Physical|40|100|20}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Smog|Poison|Special|30|70|20}}
-{{MoveBreed||Super Fang|Normal|Physical|1|90|10}}
 {{MoveBreedEnd|Ratation|Poison|Poison}}
 
 ==Evolution==
@@ -13011,18 +12599,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Junkster|Poison|Steel}}
-{{MoveBreed||Astonish|Ghost|Physical|30|100|15}}
-{{MoveBreed||Crunch|Dark|Physical|80|100|15}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Foul Play|Dark|Physical|95|100|15}}
-{{MoveBreed||Haze|Ice|Status|&mdash;|0|30}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Leer|Normal|Status|&mdash;|100|30}}
-{{MoveBreed||Punishment|Dark|Physical|1|100|5}}
-{{MoveBreed||Pursuit|Dark|Physical|40|100|20}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Smog|Poison|Special|30|70|20}}
-{{MoveBreed||Super Fang|Normal|Physical|1|90|10}}
 {{MoveBreedEnd|Junkster|Poison|Steel}}
 
 ==Evolution==
@@ -13356,15 +12932,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Beackaneer|Water|Flying}}
-{{MoveBreed||Agility|Psychic|Status|&mdash;|0|30}}
-{{MoveBreed||Aqua Ring|Water|Status|&mdash;|0|20}}
-{{MoveBreed||Brine|Water|Special|65|100|10}}
-{{MoveBreed||Gust|Flying|Special|40|100|35}}
-{{MoveBreed||Knock Off|Dark|Physical|65|100|20}}
-{{MoveBreed||Mist|Ice|Status|&mdash;|0|30}}
-{{MoveBreed||Roost|Flying|Status|&mdash;|0|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Water Sport|Water|Status|&mdash;|0|15}}
 {{MoveBreedEnd|Beackaneer|Water|Flying}}
 
 ==Evolution==
@@ -13530,15 +13097,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Talonbierd|Water|Dark}}
-{{MoveBreed||Agility|Psychic|Status|&mdash;|0|30}}
-{{MoveBreed||Aqua Ring|Water|Status|&mdash;|0|20}}
-{{MoveBreed||Brine|Water|Special|65|100|10}}
-{{MoveBreed||Gust|Flying|Special|40|100|35}}
-{{MoveBreed||Knock Off|Dark|Physical|65|100|20}}
-{{MoveBreed||Mist|Ice|Status|&mdash;|0|30}}
-{{MoveBreed||Roost|Flying|Status|&mdash;|0|10}}
-{{MoveBreed||Twister|Dragon|Special|40|100|20}}
-{{MoveBreed||Water Sport|Water|Status|&mdash;|0|15}}
 {{MoveBreedEnd|Talonbierd|Water|Dark}}
 
 ==Evolution==
@@ -14037,11 +13595,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Revolster|Water|Fire}}
-{{MoveBreed||Aqua Jet|Water|Physical|40|100|20}}
-{{MoveBreed||Crabhammer|Water|Physical|100|90|10}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Entrainment|Normal|Status|&mdash;|100|15}}
-{{MoveBreed||Helping Hand|Normal|Status|&mdash;|0|20}}
 {{MoveBreedEnd|Revolster|Water|Fire}}
 
 ==Evolution==
@@ -14190,11 +13743,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Spectrain|Water|Water}}
-{{MoveBreed||Aqua Jet|Water|Physical|40|100|20}}
-{{MoveBreed||Crabhammer|Water|Physical|100|90|10}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Entrainment|Normal|Status|&mdash;|100|15}}
-{{MoveBreed||Helping Hand|Normal|Status|&mdash;|0|20}}
 {{MoveBreedEnd|Spectrain|Water|Water}}
 
 ==Evolution==
@@ -14356,11 +13904,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Coliathan|Water|Fairy}}
-{{MoveBreed||Aqua Jet|Water|Physical|40|100|20}}
-{{MoveBreed||Crabhammer|Water|Physical|100|90|10}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Entrainment|Normal|Status|&mdash;|100|15}}
-{{MoveBreed||Helping Hand|Normal|Status|&mdash;|0|20}}
 {{MoveBreedEnd|Coliathan|Water|Fairy}}
 
 ==Evolution==
@@ -14521,11 +14064,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Eleclee|Electric|Electric}}
-{{MoveBreed||Aqua Jet|Water|Physical|40|100|20}}
-{{MoveBreed||Crabhammer|Water|Physical|100|90|10}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Entrainment|Normal|Status|&mdash;|100|15}}
-{{MoveBreed||Helping Hand|Normal|Status|&mdash;|0|20}}
 {{MoveBreedEnd|Eleclee|Electric|Electric}}
 
 ==Evolution==
@@ -14679,11 +14217,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Volglee|Electric|Electric}}
-{{MoveBreed||Aqua Jet|Water|Physical|40|100|20}}
-{{MoveBreed||Crabhammer|Water|Physical|100|90|10}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Entrainment|Normal|Status|&mdash;|100|15}}
-{{MoveBreed||Helping Hand|Normal|Status|&mdash;|0|20}}
 {{MoveBreedEnd|Volglee|Electric|Electric}}
 
 ==Evolution==
@@ -14844,11 +14377,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Weeemu|Normal|Normal}}
-{{MoveBreed||Aqua Jet|Water|Physical|40|100|20}}
-{{MoveBreed||Crabhammer|Water|Physical|100|90|10}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Entrainment|Normal|Status|&mdash;|100|15}}
-{{MoveBreed||Helping Hand|Normal|Status|&mdash;|0|20}}
 {{MoveBreedEnd|Weeemu|Normal|Normal}}
 
 ==Evolution==
@@ -15180,8 +14708,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Buildore|Rock|Steel}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Head Smash|Rock|Physical|150|80|5}}
 {{MoveBreedEnd|Buildore|Rock|Steel}}
 
 ==Evolution==
@@ -15348,8 +14874,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Structore|Rock|Steel}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Head Smash|Rock|Physical|150|80|5}}
 {{MoveBreedEnd|Structore|Rock|Steel}}
 
 ==Evolution==
@@ -15679,17 +15203,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Vulcaspine|Rock|Fire}}
-{{MoveBreed||Crunch|Dark|Physical|80|100|15}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Hammer Arm|Fighting|Physical|100|90|10}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Leer|Normal|Status|&mdash;|100|30}}
-{{MoveBreed||Slam|Normal|Physical|80|75|20}}
-{{MoveBreed||Stomp|Normal|Physical|65|100|20}}
-{{MoveBreed||Thrash|Normal|Physical|120|100|10}}
-{{MoveBreed||Whirlwind|Normal|Status|&mdash;|0|20}}
 {{MoveBreedEnd|Vulcaspine|Rock|Fire}}
 
 ==Evolution==
@@ -16020,18 +15533,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Stegoblade|Rock|Grass}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Counter|Fighting|Physical|1|100|20}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Fissure|Ground|Physical|1|30|5}}
-{{MoveBreed||Focus Energy|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Headbutt|Normal|Physical|70|100|15}}
-{{MoveBreed||Rock Blast|Rock|Physical|25|90|10}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Screech|Normal|Status|&mdash;|85|40}}
-{{MoveBreed||Stealth Rock|Rock|Status|&mdash;|0|20}}
-{{MoveBreed||Wide Guard|Rock|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Stegoblade|Rock|Grass}}
 
 ==Evolution==
@@ -16197,18 +15698,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Pumethal|Rock|Fighting}}
-{{MoveBreed||Body Slam|Normal|Physical|85|100|15}}
-{{MoveBreed||Counter|Fighting|Physical|1|100|20}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Double-Edge|Normal|Physical|120|100|15}}
-{{MoveBreed||Fissure|Ground|Physical|1|30|5}}
-{{MoveBreed||Focus Energy|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Headbutt|Normal|Physical|70|100|15}}
-{{MoveBreed||Rock Blast|Rock|Physical|25|90|10}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Screech|Normal|Status|&mdash;|85|40}}
-{{MoveBreed||Stealth Rock|Rock|Status|&mdash;|0|20}}
-{{MoveBreed||Wide Guard|Rock|Status|&mdash;|0|10}}
 {{MoveBreedEnd|Pumethal|Rock|Fighting}}
 
 ==Evolution==
@@ -16538,19 +16027,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Echneedle|Poison|Electric}}
-{{MoveBreed||Amnesia|Psychic|Status|&mdash;|0|20}}
-{{MoveBreed||Beat Up|Dark|Physical|1|100|10}}
-{{MoveBreed||Chip Away|Normal|Physical|70|100|20}}
-{{MoveBreed||Confusion|Psychic|Special|50|100|25}}
-{{MoveBreed||Counter|Fighting|Physical|1|100|20}}
-{{MoveBreed||Disable|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Head Smash|Rock|Physical|150|80|5}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Poison Tail|Poison|Physical|50|100|25}}
-{{MoveBreed||Sucker Punch|Dark|Physical|80|100|5}}
-{{MoveBreed||Supersonic|Normal|Status|&mdash;|55|20}}
-{{MoveBreed||Take Down|Normal|Physical|90|85|20}}
 {{MoveBreedEnd|Echneedle|Poison|Electric}}
 
 ==Evolution==
@@ -16879,19 +16355,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Harvihaya|Grass|Dragon}}
-{{MoveBreed||Aromatherapy|Grass|Status|&mdash;|0|5}}
-{{MoveBreed||Defense Curl|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Grass Whistle|Grass|Status|&mdash;|55|15}}
-{{MoveBreed||Heal Pulse|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Healing Wish|Psychic|Status|&mdash;|0|10}}
-{{MoveBreed||Natural Gift|Normal|Physical|1|100|15}}
-{{MoveBreed||Nature Power|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Razor Leaf|Grass|Physical|55|95|25}}
-{{MoveBreed||Rollout|Rock|Physical|30|90|20}}
-{{MoveBreed||Seed Bomb|Grass|Physical|80|100|15}}
-{{MoveBreed||Sweet Scent|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Tickle|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Weather Ball|Normal|Special|50|100|10}}
 {{MoveBreedEnd|Harvihaya|Grass|Dragon}}
 
 ==Evolution==
@@ -17237,18 +16700,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Medamba|Dark|Fairy}}
-{{MoveBreed||Beat Up|Dark|Physical|1|100|10}}
-{{MoveBreed||Disable|Normal|Status|&mdash;|100|20}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Poison Fang|Poison|Physical|50|100|15}}
-{{MoveBreed||Poison Tail|Poison|Physical|50|100|25}}
-{{MoveBreed||Pursuit|Dark|Physical|40|100|20}}
-{{MoveBreed||Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveBreed||Slam|Normal|Physical|80|75|20}}
-{{MoveBreed||Snatch|Dark|Status|&mdash;|0|10}}
-{{MoveBreed||Spite|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Sucker Punch|Dark|Physical|80|100|5}}
-{{MoveBreed||Switcheroo|Dark|Status|&mdash;|100|10}}
 {{MoveBreedEnd|Medamba|Dark|Fairy}}
 
 ==Evolution==
@@ -17568,11 +17019,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Leechito|Bug|Poison}}
-{{MoveBreed||Aqua Jet|Water|Physical|40|100|20}}
-{{MoveBreed||Bug Bite|Bug|Physical|60|100|20}}
-{{MoveBreed||Endure|Normal|Status|&mdash;|0|10}}
-{{MoveBreed||Foresight|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Hydro Pump|Water|Special|110|80|5}}
 {{MoveBreedEnd|Leechito|Bug|Poison}}
 
 ==Evolution==
@@ -18085,19 +17531,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Charmeow|Normal|Normal}}
-{{MoveBreed||Amnesia|Psychic|Status|&mdash;|0|20}}
-{{MoveBreed||Assist|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Foul Play|Dark|Physical|95|100|15}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Last Resort|Normal|Physical|140|100|5}}
-{{MoveBreed||Odor Sleuth|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Punishment|Dark|Physical|1|100|5}}
-{{MoveBreed||Snatch|Dark|Status|&mdash;|0|10}}
-{{MoveBreed||Spite|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Tail Whip|Normal|Status|&mdash;|100|30}}
 {{MoveBreedEnd|Charmeow|Normal|Normal}}
 
 ==Evolution==
@@ -18259,19 +17692,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Hisschance|Ghost|Ghost}}
-{{MoveBreed||Amnesia|Psychic|Status|&mdash;|0|20}}
-{{MoveBreed||Assist|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Foul Play|Dark|Physical|95|100|15}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Last Resort|Normal|Physical|140|100|5}}
-{{MoveBreed||Odor Sleuth|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Punishment|Dark|Physical|1|100|5}}
-{{MoveBreed||Snatch|Dark|Status|&mdash;|0|10}}
-{{MoveBreed||Spite|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Tail Whip|Normal|Status|&mdash;|100|30}}
 {{MoveBreedEnd|Hisschance|Ghost|Ghost}}
 
 ==Evolution==
@@ -18433,19 +17853,6 @@ END==============================================
 ===By breeding===
 
 {{MoveBreedStart|Womburo|Ground|Ground}}
-{{MoveBreed||Amnesia|Psychic|Status|&mdash;|0|20}}
-{{MoveBreed||Assist|Normal|Status|&mdash;|0|20}}
-{{MoveBreed||Charm|Fairy|Status|&mdash;|100|20}}
-{{MoveBreed||Flail|Normal|Physical|1|100|15}}
-{{MoveBreed||Foul Play|Dark|Physical|95|100|15}}
-{{MoveBreed||Hypnosis|Psychic|Status|&mdash;|60|20}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Last Resort|Normal|Physical|140|100|5}}
-{{MoveBreed||Odor Sleuth|Normal|Status|&mdash;|0|40}}
-{{MoveBreed||Punishment|Dark|Physical|1|100|5}}
-{{MoveBreed||Snatch|Dark|Status|&mdash;|0|10}}
-{{MoveBreed||Spite|Ghost|Status|&mdash;|100|10}}
-{{MoveBreed||Tail Whip|Normal|Status|&mdash;|100|30}}
 {{MoveBreedEnd|Womburo|Ground|Ground}}
 
 ==Evolution==
@@ -18686,145 +18093,4 @@ END==============================================
 | evsd          = 0
 | evsp          = 0
 | body          = 
-| color         = Gray
-| friendship    = 35
-}}
-'''Geckrotto''' is a {{Type|Dark}}/{{Type|Rock}}-type Pokémon.
-
-==Pokédex entry==
-
-{{Dex|type1=Dark|type2=Rock
-|Its claws are strong enough to allow it to walk on walls. As long as its head is intact, it can restore any body part it loses.}}
-
-==Game locations==
-
-{{Availability|type1=Dark|type2=Rock
-|common= 
-}}
-
-==Held items==
-
-{{HeldItems|type1=Dark|type2=Rock
-}}
-
-==Base stats==
-
-{{Stats
-| type    = Dark
-| type2    = Rock
-| HP      = 80
-| Attack  = 115
-| Defense = 107
-| SpAtk   = 70
-| SpDef   = 89
-| Speed   = 62
-}}
-
-==Type effectiveness==
-
-{{TypeEffectiveness <!-- 100 is normal effectiveness, 200 is weak to that type, 50 is resistant to that type, etc. -->
-| type1    = Dark
-| type2    = Rock
-| Normal   = 50
-| Fighting = 400
-| Flying   = 50
-| Poison   = 50
-| Ground   = 200
-| Rock     = 100
-| Bug      = 200
-| Ghost    = 50
-| Steel    = 200
-| Fire     = 50
-| Water    = 200
-| Grass    = 200
-| Electric = 100
-| Psychic  = 0
-| Ice      = 100
-| Dragon   = 100
-| Dark     = 50
-| Fairy    = 200
-}}
-
-==Moves==
-
-===By leveling up===
-
-{{MoveLevelStart|Geckrotto|Dark|Rock}}
-{{MoveLevel|1|Bite|Dark|Physical|60|100|25}}
-{{MoveLevel|1|Leer|Normal|Status|&mdash;|100|30}}
-{{MoveLevel|10|Screech|Normal|Status|&mdash;|85|40}}
-{{MoveLevel|14|Bite|Dark|Physical|60|100|25}}
-{{MoveLevel|19|Chip Away|Normal|Physical|70|100|20}}
-{{MoveLevel|23|Scary Face|Normal|Status|&mdash;|100|10}}
-{{MoveLevel|25|Dragon Breath|Dragon|Special|60|100|20}}
-{{MoveLevel|28|Thrash|Normal|Physical|120|100|10}}
-{{MoveLevel|32|Dark Pulse|Dark|Special|80|100|15}}
-{{MoveLevel|34|Mean Look|Normal|Status|&mdash;|0|5}}
-{{MoveLevel|37|Payback|Dark|Physical|50|100|10}}
-{{MoveLevel|41|Crunch|Dark|Physical|80|100|15}}
-{{MoveLevel|46|Stone Edge|Rock|Physical|100|80|5}}
-{{MoveLevel|50|Recover|Normal|Status|&mdash;|0|10}}
-{{MoveLevelEnd|Geckrotto|Dark|Rock}}
-
-===By TM/HM===
-<!-- You can get the entries for this table from the page [[TM and HM list]] -->
-{{MoveTMStart|Geckrotto|Dark|Rock}}
-{{MoveTM|TM27|Return|Normal|Physical|Varies|100|20}}
-{{MoveTMEnd|Geckrotto|Dark|Rock}}
-
-===By breeding===
-
-{{MoveBreedStart|Geckrotto|Dark|Rock}}
-{{MoveBreed||Ancient Power|Rock|Special|60|100|5}}
-{{MoveBreed||Assurance|Dark|Physical|60|100|10}}
-{{MoveBreed||Curse|Ghost|Status|&mdash;|0|10}}
-{{MoveBreed||Dragon Dance|Dragon|Status|&mdash;|0|20}}
-{{MoveBreed||Focus Energy|Normal|Status|&mdash;|0|30}}
-{{MoveBreed||Iron Defense|Steel|Status|&mdash;|0|15}}
-{{MoveBreed||Iron Head|Steel|Physical|80|100|15}}
-{{MoveBreed||Iron Tail|Steel|Physical|100|75|15}}
-{{MoveBreed||Outrage|Dragon|Physical|120|100|10}}
-{{MoveBreed||Pursuit|Dark|Physical|40|100|20}}
-{{MoveBreed||Stealth Rock|Rock|Status|&mdash;|0|20}}
-{{MoveBreed||Stomp|Normal|Physical|65|100|20}}
-{{MoveBreedEnd|Geckrotto|Dark|Rock}}
-
-==Evolution==
-
-{{Evobox-3
-| type1   = Dark
-| type2   = Rock
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
-}}
-
-==Sprites==
-
-{{Sprites|111|type=Dark|type2=Rock|gender=both}}
-
-==Trivia==
-
-
-===Design origin===
-
-
-===Name origin===
-
-
-{{PokemonPrevNextHead | species=Geckrotto | type=Dark | type2=Rock | prev=Gecrok | prevnum=110 | next=Denturla | nextnum=112 }}
-
-END==============================================
+| color   
