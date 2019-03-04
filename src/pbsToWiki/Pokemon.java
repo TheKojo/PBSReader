@@ -1,6 +1,9 @@
 package pbsToWiki;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Pokemon {
 	
@@ -47,11 +50,47 @@ public class Pokemon {
 	String uncommonItem ="";
 	String commonItem="";
 	String rareItem="";
+	String shape = "";
 	ArrayList<String> movesList = new ArrayList<String>();
 	ArrayList<String> eggMovesList = new ArrayList<String>();
+	ArrayList<TM> tmList = new ArrayList<TM>();
+	Pokemon evolution;
+	
+	public File inputFile = new File("src/input/tm.txt");
+	capsHandling capsHandler = new capsHandling();
 	
 	public Pokemon(int num) {
 		internalNum = num;
+	}
+	
+	public void getTMs() {
+		int num = 0;
+		try {
+			Scanner sc = new Scanner(inputFile,"UTF-8");
+			while (sc.hasNextLine()) {
+				String i = sc.nextLine();
+				
+				//Ignore comments
+				if (i.startsWith("[")){
+					num += 1;
+					String move = i.substring(i.lastIndexOf("[")+1,i.length()-1);
+					i = sc.nextLine();
+					if (i.contains(name.toUpperCase())){
+						TM tm = new TM();
+						tm.setNum(num);
+						tm.name = capsHandler.properCase(move);
+						tmList.add(tm);
+					}
+				}
+			}
+		}
+	    catch (FileNotFoundException e) {
+	        e.printStackTrace();
+	    }
+	}
+	
+	public void getEvolutionLine() {
+		
 	}
 
 }

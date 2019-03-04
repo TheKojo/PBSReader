@@ -17,6 +17,7 @@ public class PBSWikiConverter {
 	    
 	    ArticlePrinter dataPrinter = new ArticlePrinter();
 	    dataPrinter.printData(pkmList);
+	    //dataPrinter.printDexList(pkmList);
 
 		System.out.println("done");
 	}

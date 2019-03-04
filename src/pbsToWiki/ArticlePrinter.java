@@ -245,7 +245,12 @@ public class ArticlePrinter {
 			else{
 				outputWriter.println("{{MoveTMStart|"+currPokemon.name+"|"+currPokemon.type1+"|"+currPokemon.type1+"}}");
 			}
-			outputWriter.println("{{MoveTM|TM27|Return|Normal|Physical|Varies|100|20}}");
+			//TMHandler tmHandler  = new TMHandler(currPokemon);
+			currPokemon.getTMs();
+			for (int j = 0; j<currPokemon.tmList.size(); j++) {
+				moveHandling tmMoveInfo = new moveHandling(currPokemon.tmList.get(j).name.toUpperCase());
+				outputWriter.println("{{MoveTM|TM"+currPokemon.tmList.get(j).num+"|"+tmMoveInfo.getMove()+"|"+tmMoveInfo.getType()+"|"+tmMoveInfo.getCategory()+"|"+tmMoveInfo.getPower()+"|"+tmMoveInfo.getAccuracy()+"|"+tmMoveInfo.getPP()+"}}");
+			}
 			if (currPokemon.type2.length()>0){
 				outputWriter.println("{{MoveTMEnd|"+currPokemon.name+"|"+currPokemon.type1+"|"+currPokemon.type2+"}}");
 			}
@@ -320,8 +325,70 @@ public class ArticlePrinter {
 			outputWriter.println("");
 			outputWriter.println("END=============================================="); 
 		}
-		
+		outputWriter.close();
 	}
 	
+	public void printDexList(Hashtable<Integer, Pokemon> pkmList) throws FileNotFoundException, UnsupportedEncodingException {
+		PrintWriter outputWriter = new PrintWriter("src/output/pktext.txt", "UTF-8");
+		int startIndex = 722;
+		
+		//Loop
+		for (int i = 0; i<pkmList.size(); i++) {
+			int currIndex = i+startIndex;
+			Pokemon currPokemon = pkmList.get(currIndex);
+		    
+			//Type String
+			String typeblock;
+			if (currPokemon.type2.length()>0){
+				typeblock = "type="+currPokemon.type1+" | type2="+currPokemon.type2;
+			}
+			else{
+				typeblock = "type="+currPokemon.type1;
+			}
+			
+			//Dex Number String
+			String prevNum;
+			if ((currPokemon.dexNum-1)<10){
+				prevNum = "00"+(currPokemon.dexNum-1);
+			}
+			else if ((currPokemon.dexNum-1)<100){
+				prevNum = "0"+(currPokemon.dexNum-1);
+			}
+			else{
+				prevNum = ""+(currPokemon.dexNum-1);
+			}
+			
+			String nextNum;
+			if ((currPokemon.dexNum+1)<10){
+				nextNum = "00"+(currPokemon.dexNum+1);
+			}
+			else if ((currPokemon.dexNum+1)<100){
+				nextNum = "0"+(currPokemon.dexNum+1);
+			}
+			else{
+				nextNum = ""+(currPokemon.dexNum+1);
+			}
+			
+			String currNum;
+			if (currPokemon.dexNum<10){
+				currNum = "00"+(currPokemon.dexNum);
+			}
+			else if (currPokemon.dexNum<100){
+				currNum = "0"+(currPokemon.dexNum);
+			}
+			else{
+				currNum = ""+(currPokemon.dexNum);
+			}
+			
+    		if (currPokemon.type2.length()>0){
+    			outputWriter.println("{{DexListEntry|"+currNum+"|"+currPokemon.name+"|"+currPokemon.type1+"|"+currPokemon.type2+"}}");
+    		}
+    		else{
+    			outputWriter.println("{{DexListEntry|"+currNum+"|"+currPokemon.name+"|"+currPokemon.type1+"}}");
+    		}
+		}
+		
+		outputWriter.close();
+	}
 	
 }

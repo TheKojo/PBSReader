@@ -13,6 +13,7 @@ public class PkmDataReader {
 		File inputFile = new File("src/input/pokemon.txt");
 		Hashtable<Integer, Pokemon> pokemonList = new Hashtable<Integer, Pokemon>();
 		int indexStart = 722;
+		boolean v17 = true;
 		
 		try {
 			Scanner sc = new Scanner(inputFile,"UTF-8");
@@ -205,6 +206,13 @@ public class PkmDataReader {
 	            	i = sc.nextLine();
 	            	currPokemon.color = i.substring(i.lastIndexOf("=")+1);
 	            	
+	            	if (v17){
+		            	//Shape
+		            	i = sc.nextLine();
+		            	currPokemon.shape = i.substring(i.lastIndexOf("=")+1);
+	            	}
+
+	            			
 	            	//Skip Habitat
 	            	i = sc.nextLine();
 	            	if (i.startsWith("Habitat") || i.startsWith("RegionalNumb")){
