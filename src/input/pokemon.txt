@@ -22579,7 +22579,7 @@ Pokedex=Its claws are strong enough to allow it to walk on walls. As long as its
 BattlerPlayerY=42
 BattlerEnemyY=47
 BattlerAltitude=0
-Evolutions=GECKROTTO,LevelNight,40
+Evolutions=
 [833]
 Name=Denturla
 InternalName=DENTURLA

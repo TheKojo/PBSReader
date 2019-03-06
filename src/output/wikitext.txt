@@ -139,23 +139,21 @@
 ==Evolution==
 
 {{Evobox-3
-| type1   = Grass
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+| type1=Grass
+| no1=001
+| name1=Kokoala
+| image1=
+| type1-1=Grass
+| no2=002
+| name2=Cocombat
+| image2=
+| type1-2=Grass
+| type2-2=Dark
+| no3=003
+| name3=Kowomnut
+| image3=
+| type1-3=Grass
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -314,24 +312,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Grass
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+| type1=Grass
+| type2=Dark
+| no1=001
+| name1=Kokoala
+| image1=
+| type1-1=Grass
+| no2=002
+| name2=Cocombat
+| image2=
+| type1-2=Grass
+| type2-2=Dark
+| no3=003
+| name3=Kowomnut
+| image3=
+| type1-3=Grass
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -491,24 +487,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Grass
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+| type1=Grass
+| type2=Dark
+| no1=001
+| name1=Kokoala
+| image1=
+| type1-1=Grass
+| no2=002
+| name2=Cocombat
+| image2=
+| type1-2=Grass
+| type2-2=Dark
+| no3=003
+| name3=Kowomnut
+| image3=
+| type1-3=Grass
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -665,23 +659,21 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+| type1=Fire
+| no1=004
+| name1=Pyroo
+| image1=
+| type1-1=Fire
+| no2=005
+| name2=Wallopy
+| image2=
+| type1-2=Fire
+| type2-2=Fighting
+| no3=006
+| name3=Jumblitz
+| image3=
+| type1-3=Fire
+| type2-3=Fighting
 }}
 
 ==Sprites==
@@ -835,24 +827,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Fire
-| type2   = Fighting
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+| type1=Fire
+| type2=Fighting
+| no1=004
+| name1=Pyroo
+| image1=
+| type1-1=Fire
+| no2=005
+| name2=Wallopy
+| image2=
+| type1-2=Fire
+| type2-2=Fighting
+| no3=006
+| name3=Jumblitz
+| image3=
+| type1-3=Fire
+| type2-3=Fighting
 }}
 
 ==Sprites==
@@ -1008,24 +998,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Fire
-| type2   = Fighting
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+| type1=Fire
+| type2=Fighting
+| no1=004
+| name1=Pyroo
+| image1=
+| type1-1=Fire
+| no2=005
+| name2=Wallopy
+| image2=
+| type1-2=Fire
+| type2-2=Fighting
+| no3=006
+| name3=Jumblitz
+| image3=
+| type1-3=Fire
+| type2-3=Fighting
 }}
 
 ==Sprites==
@@ -1179,23 +1167,21 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+| type1=Water
+| no1=007
+| name1=Taplat
+| image1=
+| type1-1=Water
+| no2=008
+| name2=Platsplash
+| image2=
+| type1-2=Water
+| type2-2=Psychic
+| no3=009
+| name3=Psykapp
+| image3=
+| type1-3=Water
+| type2-3=Psychic
 }}
 
 ==Sprites==
@@ -1352,24 +1338,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Water
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+| type1=Water
+| type2=Psychic
+| no1=007
+| name1=Taplat
+| image1=
+| type1-1=Water
+| no2=008
+| name2=Platsplash
+| image2=
+| type1-2=Water
+| type2-2=Psychic
+| no3=009
+| name3=Psykapp
+| image3=
+| type1-3=Water
+| type2-3=Psychic
 }}
 
 ==Sprites==
@@ -1528,24 +1512,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Water
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+| type1=Water
+| type2=Psychic
+| no1=007
+| name1=Taplat
+| image1=
+| type1-1=Water
+| no2=008
+| name2=Platsplash
+| image2=
+| type1-2=Water
+| type2-2=Psychic
+| no3=009
+| name3=Psykapp
+| image3=
+| type1-3=Water
+| type2-3=Psychic
 }}
 
 ==Sprites==
@@ -1693,24 +1675,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| no1=010
+| name1=Opossol
+| image1=
+| type1-1=Normal
+| no2=011
+| name2=Possorow
+| image2=
+| type1-2=Normal
+| type2-2=Ghost
 }}
 
 ==Sprites==
@@ -1864,25 +1839,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Ghost
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| type2=Ghost
+| no1=010
+| name1=Opossol
+| image1=
+| type1-1=Normal
+| no2=011
+| name2=Possorow
+| image2=
+| type1-2=Normal
+| type2-2=Ghost
 }}
 
 ==Sprites==
@@ -2042,24 +2010,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Normal
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+| type1=Normal
+| type2=Flying
+| no1=012
+| name1=Rypeck
+| image1=
+| type1-1=Normal
+| type2-1=Flying
+| no2=013
+| name2=Rybeak
+| image2=
+| type1-2=Normal
+| type2-2=Flying
+| no3=014
+| name3=Krosbeak
+| image3=
+| type1-3=Steel
+| type2-3=Flying
 }}
 
 ==Sprites==
@@ -2208,24 +2175,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Normal
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+| type1=Normal
+| type2=Flying
+| no1=012
+| name1=Rypeck
+| image1=
+| type1-1=Normal
+| type2-1=Flying
+| no2=013
+| name2=Rybeak
+| image2=
+| type1-2=Normal
+| type2-2=Flying
+| no3=014
+| name3=Krosbeak
+| image3=
+| type1-3=Steel
+| type2-3=Flying
 }}
 
 ==Sprites==
@@ -2377,24 +2343,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Steel
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Steel
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Steel
-| type2-2 = Steel
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Steel
-| type2-3 = Steel
+| type1=Steel
+| type2=Flying
+| no1=012
+| name1=Rypeck
+| image1=
+| type1-1=Normal
+| type2-1=Flying
+| no2=013
+| name2=Rybeak
+| image2=
+| type1-2=Normal
+| type2-2=Flying
+| no3=014
+| name3=Krosbeak
+| image3=
+| type1-3=Steel
+| type2-3=Flying
 }}
 
 ==Sprites==
@@ -2551,24 +2516,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ground
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ground
-| type2-2 = Ground
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ground
-| type2-3 = Ground
+{{Evobox-2
+| type1=Ground
+| no1=015
+| name1=Dengo
+| image1=
+| type1-1=Ground
+| no2=016
+| name2=Doongo
+| image2=
+| type1-2=Ground
 }}
 
 ==Sprites==
@@ -2718,24 +2675,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ground
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ground
-| type2-2 = Ground
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ground
-| type2-3 = Ground
+{{Evobox-2
+| type1=Ground
+| no1=015
+| name1=Dengo
+| image1=
+| type1-1=Ground
+| no2=016
+| name2=Doongo
+| image2=
+| type1-2=Ground
 }}
 
 ==Sprites==
@@ -2894,23 +2843,20 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Grass
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+| type1=Grass
+| no1=017
+| name1=Tumbli
+| image1=
+| type1-1=Grass
+| no2=018
+| name2=Tumblow
+| image2=
+| type1-2=Grass
+| no3=019
+| name3=Golweed
+| image3=
+| type1-3=Grass
+| type2-3=Ground
 }}
 
 ==Sprites==
@@ -3060,23 +3006,20 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Grass
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+| type1=Grass
+| no1=017
+| name1=Tumbli
+| image1=
+| type1-1=Grass
+| no2=018
+| name2=Tumblow
+| image2=
+| type1-2=Grass
+| no3=019
+| name3=Golweed
+| image3=
+| type1-3=Grass
+| type2-3=Ground
 }}
 
 ==Sprites==
@@ -3246,24 +3189,21 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Grass
-| type2   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+| type1=Grass
+| type2=Ground
+| no1=017
+| name1=Tumbli
+| image1=
+| type1-1=Grass
+| no2=018
+| name2=Tumblow
+| image2=
+| type1-2=Grass
+| no3=019
+| name3=Golweed
+| image3=
+| type1-3=Grass
+| type2-3=Ground
 }}
 
 ==Sprites==
@@ -3418,24 +3358,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| no1=020
+| name1=Nimbian
+| image1=
+| type1-1=Electric
+| no2=021
+| name2=Konimbus
+| image2=
+| type1-2=Electric
+| type2-2=Flying
 }}
 
 ==Sprites==
@@ -3576,25 +3509,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| type2=Flying
+| no1=020
+| name1=Nimbian
+| image1=
+| type1-1=Electric
+| no2=021
+| name2=Konimbus
+| image2=
+| type1-2=Electric
+| type2-2=Flying
 }}
 
 ==Sprites==
@@ -3748,24 +3674,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+{{Evobox-2
+| type1=Dragon
+| no1=022
+| name1=Drygon
+| image1=
+| type1-1=Dragon
+| no2=023
+| name2=Komodon
+| image2=
+| type1-2=Dragon
+| type2-2=Poison
 }}
 
 ==Sprites==
@@ -3911,25 +3830,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dragon
-| type2   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+{{Evobox-2
+| type1=Dragon
+| type2=Poison
+| no1=022
+| name1=Drygon
+| image1=
+| type1-1=Dragon
+| no2=023
+| name2=Komodon
+| image2=
+| type1-2=Dragon
+| type2-2=Poison
 }}
 
 ==Sprites==
@@ -4063,23 +3975,20 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| no1=024
+| name1=Pilove
+| image1=
+| type1-1=Bug
+| no2=025
+| name2=Crecoon
+| image2=
+| type1-2=Bug
+| no3=026
+| name3=Molune
+| image3=
+| type1-3=Bug
+| type2-3=Fairy
 }}
 
 ==Sprites==
@@ -4217,23 +4126,20 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| no1=024
+| name1=Pilove
+| image1=
+| type1-1=Bug
+| no2=025
+| name2=Crecoon
+| image2=
+| type1-2=Bug
+| no3=026
+| name3=Molune
+| image3=
+| type1-3=Bug
+| type2-3=Fairy
 }}
 
 ==Sprites==
@@ -4388,24 +4294,21 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| type2=Fairy
+| no1=024
+| name1=Pilove
+| image1=
+| type1-1=Bug
+| no2=025
+| name2=Crecoon
+| image2=
+| type1-2=Bug
+| no3=026
+| name3=Molune
+| image3=
+| type1-3=Bug
+| type2-3=Fairy
 }}
 
 ==Sprites==
@@ -4539,24 +4442,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| type2=Dark
+| no1=027
+| name1=Scurgot
+| image1=
+| type1-1=Bug
+| type2-1=Dark
+| no2=028
+| name2=Muskle
+| image2=
+| type1-2=Bug
+| type2-2=Dark
+| no3=029
+| name3=Beelzebug
+| image3=
+| type1-3=Bug
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -4702,24 +4604,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| type2=Dark
+| no1=027
+| name1=Scurgot
+| image1=
+| type1-1=Bug
+| type2-1=Dark
+| no2=028
+| name2=Muskle
+| image2=
+| type1-2=Bug
+| type2-2=Dark
+| no3=029
+| name3=Beelzebug
+| image3=
+| type1-3=Bug
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -4878,24 +4779,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| type2=Dark
+| no1=027
+| name1=Scurgot
+| image1=
+| type1-1=Bug
+| type2-1=Dark
+| no2=028
+| name2=Muskle
+| image2=
+| type1-2=Bug
+| type2-2=Dark
+| no3=029
+| name3=Beelzebug
+| image3=
+| type1-3=Bug
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -5038,23 +4938,21 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| no1=030
+| name1=Larvuzz
+| image1=
+| type1-1=Bug
+| no2=031
+| name2=Flydra
+| image2=
+| type1-2=Bug
+| type2-2=Flying
+| no3=032
+| name3=Velocisect
+| image3=
+| type1-3=Bug
+| type2-3=Dragon
 }}
 
 ==Sprites==
@@ -5201,24 +5099,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| type2=Flying
+| no1=030
+| name1=Larvuzz
+| image1=
+| type1-1=Bug
+| no2=031
+| name2=Flydra
+| image2=
+| type1-2=Bug
+| type2-2=Flying
+| no3=032
+| name3=Velocisect
+| image3=
+| type1-3=Bug
+| type2-3=Dragon
 }}
 
 ==Sprites==
@@ -5367,24 +5263,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Bug
-| type2   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+| type1=Bug
+| type2=Dragon
+| no1=030
+| name1=Larvuzz
+| image1=
+| type1-1=Bug
+| no2=031
+| name2=Flydra
+| image2=
+| type1-2=Bug
+| type2-2=Flying
+| no3=032
+| name3=Velocisect
+| image3=
+| type1-3=Bug
+| type2-3=Dragon
 }}
 
 ==Sprites==
@@ -5532,25 +5426,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Fighting
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-1
+| type1=Bug
+| type2=Fighting
+| no1=033
+| name1=Ledima
+| image1=
+| type1-1=Bug
+| type2-1=Fighting
 }}
 
 ==Sprites==
@@ -5707,25 +5590,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-1
+| type1=Bug
+| type2=Poison
+| no1=034
+| name1=Myradeux
+| image1=
+| type1-1=Bug
+| type2-1=Poison
 }}
 
 ==Sprites==
@@ -5867,24 +5739,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+{{Evobox-1
+| type1=Dragon
+| no1=035
+| name1=Drakeon
+| image1=
+| type1-1=Dragon
 }}
 
 ==Sprites==
@@ -6040,24 +5900,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| no1=036
+| name1=Olvee
+| image1=
+| type1-1=Normal
+| no2=037
+| name2=Bouldeon
+| image2=
+| type1-2=Rock
 }}
 
 ==Sprites==
@@ -6205,24 +6057,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-2
+| type1=Rock
+| no1=036
+| name1=Olvee
+| image1=
+| type1-1=Normal
+| no2=037
+| name2=Bouldeon
+| image2=
+| type1-2=Rock
 }}
 
 ==Sprites==
@@ -6367,24 +6211,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-2
+| type1=Poison
+| no1=036
+| name1=Olvee
+| image1=
+| type1-1=Normal
+| no2=038
+| name2=Veneon
+| image2=
+| type1-2=Poison
 }}
 
 ==Sprites==
@@ -6529,24 +6365,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-2
+| type1=Bug
+| no1=036
+| name1=Olvee
+| image1=
+| type1-1=Normal
+| no2=039
+| name2=Pesteon
+| image2=
+| type1-2=Bug
 }}
 
 ==Sprites==
@@ -6689,24 +6517,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Flying
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Flying
-| type2-2 = Flying
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Flying
-| type2-3 = Flying
+{{Evobox-2
+| type1=Flying
+| no1=036
+| name1=Olvee
+| image1=
+| type1-1=Normal
+| no2=040
+| name2=Windeon
+| image2=
+| type1-2=Flying
 }}
 
 ==Sprites==
@@ -6848,24 +6668,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fighting
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fighting
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fighting
-| type2-2 = Fighting
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fighting
-| type2-3 = Fighting
+{{Evobox-1
+| type1=Fighting
+| no1=041
+| name1=Champeon
+| image1=
+| type1-1=Fighting
 }}
 
 ==Sprites==
@@ -7008,24 +6816,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ghost
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ghost
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ghost
-| type2-2 = Ghost
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ghost
-| type2-3 = Ghost
+{{Evobox-1
+| type1=Ghost
+| no1=042
+| name1=Phanteon
+| image1=
+| type1-1=Ghost
 }}
 
 ==Sprites==
@@ -7168,24 +6964,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ground
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ground
-| type2-2 = Ground
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ground
-| type2-3 = Ground
+{{Evobox-1
+| type1=Ground
+| no1=043
+| name1=Sandeon
+| image1=
+| type1-1=Ground
 }}
 
 ==Sprites==
@@ -7328,24 +7112,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Steel
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Steel
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Steel
-| type2-2 = Steel
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Steel
-| type2-3 = Steel
+{{Evobox-2
+| type1=Steel
+| no1=036
+| name1=Olvee
+| image1=
+| type1-1=Normal
+| no2=044
+| name2=Ironeon
+| image2=
+| type1-2=Steel
 }}
 
 ==Sprites==
@@ -7496,25 +7272,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-1
+| type1=Normal
+| type2=Psychic
+| no1=045
+| name1=Dreamare
+| image1=
+| type1-1=Normal
+| type2-1=Psychic
 }}
 
 ==Sprites==
@@ -7658,24 +7423,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| no1=046
+| name1=Tauring
+| image1=
+| type1-1=Normal
+| no2=047
+| name2=Taurmera
+| image2=
+| type1-2=Normal
+| type2-2=Fighting
 }}
 
 ==Sprites==
@@ -7823,25 +7581,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Fighting
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| type2=Fighting
+| no1=046
+| name1=Tauring
+| image1=
+| type1-1=Normal
+| no2=047
+| name2=Taurmera
+| image2=
+| type1-2=Normal
+| type2-2=Fighting
 }}
 
 ==Sprites==
@@ -7986,24 +7737,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| no1=048
+| name1=Chickatoo
+| image1=
+| type1-1=Normal
+| no2=049
+| name2=Beautifowl
+| image2=
+| type1-2=Normal
+| type2-2=Flying
 }}
 
 ==Sprites==
@@ -8154,25 +7898,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| type2=Flying
+| no1=048
+| name1=Chickatoo
+| image1=
+| type1-1=Normal
+| no2=049
+| name2=Beautifowl
+| image2=
+| type1-2=Normal
+| type2-2=Flying
 }}
 
 ==Sprites==
@@ -8322,25 +8059,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fighting
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fighting
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fighting
-| type2-2 = Fighting
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fighting
-| type2-3 = Fighting
+{{Evobox-2
+| type1=Fighting
+| type2=Flying
+| no1=048
+| name1=Chickatoo
+| image1=
+| type1-1=Normal
+| no2=050
+| name2=Brawkerel
+| image2=
+| type1-2=Fighting
+| type2-2=Flying
 }}
 
 ==Sprites==
@@ -8484,25 +8214,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| type2   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-1
+| type1=Electric
+| type2=Normal
+| no1=051
+| name1=Aychem
+| image1=
+| type1-1=Electric
+| type2-1=Normal
 }}
 
 ==Sprites==
@@ -8660,24 +8379,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-1
+| type1=Normal
+| no1=052
+| name1=Kangy
+| image1=
+| type1-1=Normal
 }}
 
 ==Sprites==
@@ -8823,25 +8530,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Fighting
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| type2=Fighting
+| no1=052
+| name1=Kangy
+| image1=
+| type1-1=Normal
+| no2=053
+| name2=Kangolian
+| image2=
+| type1-2=Normal
+| type2-2=Fighting
 }}
 
 ==Sprites==
@@ -9005,25 +8705,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Psychic
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Psychic
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Psychic
-| type2-2 = Psychic
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Psychic
-| type2-3 = Psychic
+{{Evobox-1
+| type1=Psychic
+| type2=Fairy
+| no1=054
+| name1=Mime Sr.
+| image1=
+| type1-1=Psychic
+| type2-1=Fairy
 }}
 
 ==Sprites==
@@ -9174,25 +8863,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ice
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ice
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ice
-| type2-2 = Ice
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ice
-| type2-3 = Ice
+{{Evobox-1
+| type1=Ice
+| type2=Fairy
+| no1=055
+| name1=Glamorice
+| image1=
+| type1-1=Ice
+| type2-1=Fairy
 }}
 
 ==Sprites==
@@ -9326,25 +9004,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fairy
-| type2   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fairy
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fairy
-| type2-2 = Fairy
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fairy
-| type2-3 = Fairy
+{{Evobox-1
+| type1=Fairy
+| type2=Poison
+| no1=056
+| name1=Plaigrant
+| image1=
+| type1-1=Fairy
+| type2-1=Poison
 }}
 
 ==Sprites==
@@ -9494,25 +9161,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-1
+| type1=Rock
+| type2=Psychic
+| no1=057
+| name1=Lunalisk
+| image1=
+| type1-1=Rock
+| type2-1=Psychic
 }}
 
 ==Sprites==
@@ -9662,25 +9318,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-1
+| type1=Rock
+| type2=Fairy
+| no1=058
+| name1=Lunaclipse
+| image1=
+| type1-1=Rock
+| type2-1=Fairy
 }}
 
 ==Sprites==
@@ -9830,25 +9475,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-1
+| type1=Rock
+| type2=Psychic
+| no1=059
+| name1=Solgem
+| image1=
+| type1-1=Rock
+| type2-1=Psychic
 }}
 
 ==Sprites==
@@ -9998,25 +9632,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-1
+| type1=Rock
+| type2=Fire
+| no1=060
+| name1=Solaclipse
+| image1=
+| type1-1=Rock
+| type2-1=Fire
 }}
 
 ==Sprites==
@@ -10172,24 +9795,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+{{Evobox-1
+| type1=Dragon
+| no1=061
+| name1=Dragenta
+| image1=
+| type1-1=Dragon
 }}
 
 ==Sprites==
@@ -10337,25 +9948,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dragon
-| type2   = Rock
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+{{Evobox-1
+| type1=Dragon
+| type2=Rock
+| no1=062
+| name1=Dragoyle
+| image1=
+| type1-1=Dragon
+| type2-1=Rock
 }}
 
 ==Sprites==
@@ -10511,25 +10111,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Flying
+| no1=063
+| name1=Invarn
+| image1=
+| type1-1=Dark
+| type2-1=Flying
+| no2=064
+| name2=Vampichir
+| image2=
+| type1-2=Dark
+| type2-2=Flying
 }}
 
 ==Sprites==
@@ -10692,25 +10286,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Flying
+| no1=063
+| name1=Invarn
+| image1=
+| type1-1=Dark
+| type2-1=Flying
+| no2=064
+| name2=Vampichir
+| image2=
+| type1-2=Dark
+| type2-2=Flying
 }}
 
 ==Sprites==
@@ -10874,25 +10462,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-2
+| type1=Rock
+| type2=Fire
+| no1=065
+| name1=Dynatite
+| image1=
+| type1-1=Rock
+| type2-1=Fire
+| no2=066
+| name2=Bombore
+| image2=
+| type1-2=Rock
+| type2-2=Fire
 }}
 
 ==Sprites==
@@ -11050,25 +10632,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-2
+| type1=Rock
+| type2=Fire
+| no1=065
+| name1=Dynatite
+| image1=
+| type1-1=Rock
+| type2-1=Fire
+| no2=066
+| name2=Bombore
+| image2=
+| type1-2=Rock
+| type2-2=Fire
 }}
 
 ==Sprites==
@@ -11227,24 +10803,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Dragon
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+| type1=Dragon
+| type2=Fairy
+| no1=067
+| name1=Drabi
+| image1=
+| type1-1=Dragon
+| type2-1=Fairy
+| no2=068
+| name2=Prospegon
+| image2=
+| type1-2=Dragon
+| type2-2=Fairy
+| no3=069
+| name3=Draternal
+| image3=
+| type1-3=Dragon
+| type2-3=Fairy
 }}
 
 ==Sprites==
@@ -11391,24 +10966,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Dragon
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+| type1=Dragon
+| type2=Fairy
+| no1=067
+| name1=Drabi
+| image1=
+| type1-1=Dragon
+| type2-1=Fairy
+| no2=068
+| name2=Prospegon
+| image2=
+| type1-2=Dragon
+| type2-2=Fairy
+| no3=069
+| name3=Draternal
+| image3=
+| type1-3=Dragon
+| type2-3=Fairy
 }}
 
 ==Sprites==
@@ -11559,24 +11133,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Dragon
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+| type1=Dragon
+| type2=Fairy
+| no1=067
+| name1=Drabi
+| image1=
+| type1-1=Dragon
+| type2-1=Fairy
+| no2=068
+| name2=Prospegon
+| image2=
+| type1-2=Dragon
+| type2-2=Fairy
+| no3=069
+| name3=Draternal
+| image3=
+| type1-3=Dragon
+| type2-3=Fairy
 }}
 
 ==Sprites==
@@ -11744,23 +11317,19 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Psychic
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Psychic
-| type2-2 = Psychic
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Psychic
-| type2-3 = Psychic
+| type1=Psychic
+| no1=070
+| name1=Clownun
+| image1=
+| type1-1=Psychic
+| no2=071
+| name2=Jugduo
+| image2=
+| type1-2=Psychic
+| no3=072
+| name3=Jestrio
+| image3=
+| type1-3=Psychic
 }}
 
 ==Sprites==
@@ -11918,23 +11487,19 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Psychic
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Psychic
-| type2-2 = Psychic
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Psychic
-| type2-3 = Psychic
+| type1=Psychic
+| no1=070
+| name1=Clownun
+| image1=
+| type1-1=Psychic
+| no2=071
+| name2=Jugduo
+| image2=
+| type1-2=Psychic
+| no3=072
+| name3=Jestrio
+| image3=
+| type1-3=Psychic
 }}
 
 ==Sprites==
@@ -12094,23 +11659,19 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Psychic
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Psychic
-| type2-2 = Psychic
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Psychic
-| type2-3 = Psychic
+| type1=Psychic
+| no1=070
+| name1=Clownun
+| image1=
+| type1-1=Psychic
+| no2=071
+| name2=Jugduo
+| image2=
+| type1-2=Psychic
+| no3=072
+| name3=Jestrio
+| image3=
+| type1-3=Psychic
 }}
 
 ==Sprites==
@@ -12264,24 +11825,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| no1=073
+| name1=Audiver
+| image1=
+| type1-1=Normal
+| no2=074
+| name2=Stereote
+| image2=
+| type1-2=Normal
+| type2-2=Psychic
 }}
 
 ==Sprites==
@@ -12436,25 +11990,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| type2=Psychic
+| no1=073
+| name1=Audiver
+| image1=
+| type1-1=Normal
+| no2=074
+| name2=Stereote
+| image2=
+| type1-2=Normal
+| type2-2=Psychic
 }}
 
 ==Sprites==
@@ -12616,24 +12163,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-2
+| type1=Poison
+| no1=075
+| name1=Rotant
+| image1=
+| type1-1=Poison
+| no2=076
+| name2=Ratation
+| image2=
+| type1-2=Poison
 }}
 
 ==Sprites==
@@ -12785,24 +12324,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-2
+| type1=Poison
+| no1=075
+| name1=Rotant
+| image1=
+| type1-1=Poison
+| no2=076
+| name2=Ratation
+| image2=
+| type1-2=Poison
 }}
 
 ==Sprites==
@@ -12956,25 +12487,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| type2   = Steel
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-1
+| type1=Poison
+| type2=Steel
+| no1=077
+| name1=Junkster
+| image1=
+| type1-1=Poison
+| type2-1=Steel
 }}
 
 ==Sprites==
@@ -13146,24 +12666,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Water
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+| type1=Water
+| type2=Flying
+| no1=078
+| name1=Pirott
+| image1=
+| type1-1=Water
+| type2-1=Flying
+| no2=079
+| name2=Beackaneer
+| image2=
+| type1-2=Water
+| type2-2=Flying
+| no3=080
+| name3=Talonbierd
+| image3=
+| type1-3=Water
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -13324,24 +12843,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Water
-| type2   = Flying
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+| type1=Water
+| type2=Flying
+| no1=078
+| name1=Pirott
+| image1=
+| type1-1=Water
+| type2-1=Flying
+| no2=079
+| name2=Beackaneer
+| image2=
+| type1-2=Water
+| type2-2=Flying
+| no3=080
+| name3=Talonbierd
+| image3=
+| type1-3=Water
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -13507,24 +13025,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Water
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+| type1=Water
+| type2=Dark
+| no1=078
+| name1=Pirott
+| image1=
+| type1-1=Water
+| type2-1=Flying
+| no2=079
+| name2=Beackaneer
+| image2=
+| type1-2=Water
+| type2-2=Flying
+| no3=080
+| name3=Talonbierd
+| image3=
+| type1-3=Water
+| type2-3=Dark
 }}
 
 ==Sprites==
@@ -13683,25 +13200,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-1
+| type1=Rock
+| type2=Bug
+| no1=081
+| name1=Barnabble
+| image1=
+| type1-1=Rock
+| type2-1=Bug
 }}
 
 ==Sprites==
@@ -13856,25 +13362,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Water
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+{{Evobox-2
+| type1=Water
+| type2=Fire
+| no1=082
+| name1=Shrimbur
+| image1=
+| type1-1=Water
+| type2-1=Fire
+| no2=083
+| name2=Revolster
+| image2=
+| type1-2=Water
+| type2-2=Fire
 }}
 
 ==Sprites==
@@ -14027,25 +13527,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Water
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+{{Evobox-2
+| type1=Water
+| type2=Fire
+| no1=082
+| name1=Shrimbur
+| image1=
+| type1-1=Water
+| type2-1=Fire
+| no2=083
+| name2=Revolster
+| image2=
+| type1-2=Water
+| type2-2=Fire
 }}
 
 ==Sprites==
@@ -14178,24 +13672,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+{{Evobox-2
+| type1=Water
+| no1=084
+| name1=Spectrain
+| image1=
+| type1-1=Water
+| no2=085
+| name2=Coliathan
+| image2=
+| type1-2=Water
+| type2-2=Fairy
 }}
 
 ==Sprites==
@@ -14342,25 +13829,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Water
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+{{Evobox-2
+| type1=Water
+| type2=Fairy
+| no1=084
+| name1=Spectrain
+| image1=
+| type1-1=Water
+| no2=085
+| name2=Coliathan
+| image2=
+| type1-2=Water
+| type2-2=Fairy
 }}
 
 ==Sprites==
@@ -14506,24 +13986,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| no1=086
+| name1=Eleclee
+| image1=
+| type1-1=Electric
+| no2=087
+| name2=Volglee
+| image2=
+| type1-2=Electric
 }}
 
 ==Sprites==
@@ -14663,24 +14135,16 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| no1=086
+| name1=Eleclee
+| image1=
+| type1-1=Electric
+| no2=087
+| name2=Volglee
+| image2=
+| type1-2=Electric
 }}
 
 ==Sprites==
@@ -14832,24 +14296,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-1
+| type1=Normal
+| no1=088
+| name1=Weeemu
+| image1=
+| type1-1=Normal
 }}
 
 ==Sprites==
@@ -15011,24 +14463,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Rock
-| type2   = Steel
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+| type1=Rock
+| type2=Steel
+| no1=089
+| name1=Minore
+| image1=
+| type1-1=Rock
+| type2-1=Steel
+| no2=090
+| name2=Buildore
+| image2=
+| type1-2=Rock
+| type2-2=Steel
+| no3=091
+| name3=Structore
+| image3=
+| type1-3=Rock
+| type2-3=Steel
 }}
 
 ==Sprites==
@@ -15188,24 +14639,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Rock
-| type2   = Steel
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+| type1=Rock
+| type2=Steel
+| no1=089
+| name1=Minore
+| image1=
+| type1-1=Rock
+| type2-1=Steel
+| no2=090
+| name2=Buildore
+| image2=
+| type1-2=Rock
+| type2-2=Steel
+| no3=091
+| name3=Structore
+| image3=
+| type1-3=Rock
+| type2-3=Steel
 }}
 
 ==Sprites==
@@ -15367,24 +14817,23 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Rock
-| type2   = Steel
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+| type1=Rock
+| type2=Steel
+| no1=089
+| name1=Minore
+| image1=
+| type1-1=Rock
+| type2-1=Steel
+| no2=090
+| name2=Buildore
+| image2=
+| type1-2=Rock
+| type2-2=Steel
+| no3=091
+| name3=Structore
+| image3=
+| type1-3=Rock
+| type2-3=Steel
 }}
 
 ==Sprites==
@@ -15546,25 +14995,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-2
+| type1=Rock
+| type2=Fire
+| no1=092
+| name1=Burspine
+| image1=
+| type1-1=Rock
+| type2-1=Fire
+| no2=093
+| name2=Vertecoal
+| image2=
+| type1-2=Rock
+| type2-2=Fire
 }}
 
 ==Sprites==
@@ -15714,25 +15157,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-2
+| type1=Rock
+| type2=Fire
+| no1=092
+| name1=Burspine
+| image1=
+| type1-1=Rock
+| type2-1=Fire
+| no2=093
+| name2=Vertecoal
+| image2=
+| type1-2=Rock
+| type2-2=Fire
 }}
 
 ==Sprites==
@@ -15896,25 +15333,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Grass
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-2
+| type1=Rock
+| type2=Grass
+| no1=094
+| name1=Paleoplate
+| image1=
+| type1-1=Rock
+| type2-1=Grass
+| no2=095
+| name2=Stegoblade
+| image2=
+| type1-2=Rock
+| type2-2=Grass
 }}
 
 ==Sprites==
@@ -16066,25 +15497,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Grass
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-2
+| type1=Rock
+| type2=Grass
+| no1=094
+| name1=Paleoplate
+| image1=
+| type1-1=Rock
+| type2-1=Grass
+| no2=095
+| name2=Stegoblade
+| image2=
+| type1-2=Rock
+| type2-2=Grass
 }}
 
 ==Sprites==
@@ -16233,25 +15658,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Fighting
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-1
+| type1=Rock
+| type2=Fighting
+| no1=096
+| name1=Pumethal
+| image1=
+| type1-1=Rock
+| type2-1=Fighting
 }}
 
 ==Sprites==
@@ -16414,24 +15828,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-2
+| type1=Poison
+| no1=097
+| name1=Stingidna
+| image1=
+| type1-1=Poison
+| no2=098
+| name2=Echneedle
+| image2=
+| type1-2=Poison
+| type2-2=Electric
 }}
 
 ==Sprites==
@@ -16583,25 +15990,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| type2   = Electric
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-2
+| type1=Poison
+| type2=Electric
+| no1=097
+| name1=Stingidna
+| image1=
+| type1-1=Poison
+| no2=098
+| name2=Echneedle
+| image2=
+| type1-2=Poison
+| type2-2=Electric
 }}
 
 ==Sprites==
@@ -16765,25 +16165,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Grass
-| type2   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+{{Evobox-2
+| type1=Grass
+| type2=Dragon
+| no1=099
+| name1=Petiya
+| image1=
+| type1-1=Grass
+| type2-1=Dragon
+| no2=
+| name2=Harvihaya
+| image2=
+| type1-2=Grass
+| type2-2=Dragon
 }}
 
 ==Sprites==
@@ -16933,25 +16327,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Grass
-| type2   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+{{Evobox-2
+| type1=Grass
+| type2=Dragon
+| no1=099
+| name1=Petiya
+| image1=
+| type1-1=Grass
+| type2-1=Dragon
+| no2=
+| name2=Harvihaya
+| image2=
+| type1-2=Grass
+| type2-2=Dragon
 }}
 
 ==Sprites==
@@ -17112,25 +16500,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Poison
+| no1=
+| name1=Panamba
+| image1=
+| type1-1=Dark
+| type2-1=Poison
+| no2=
+| name2=Medunaga
+| image2=
+| type1-2=Dark
+| type2-2=Fairy
 }}
 
 ==Sprites==
@@ -17284,25 +16666,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Fairy
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Fairy
+| no1=
+| name1=Panamba
+| image1=
+| type1-1=Dark
+| type2-1=Poison
+| no2=
+| name2=Medunaga
+| image2=
+| type1-2=Dark
+| type2-2=Fairy
 }}
 
 ==Sprites==
@@ -17451,25 +16827,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-2
+| type1=Bug
+| type2=Water
+| no1=
+| name1=Parapupa
+| image1=
+| type1-1=Bug
+| type2-1=Water
+| no2=
+| name2=Leechito
+| image2=
+| type1-2=Bug
+| type2-2=Poison
 }}
 
 ==Sprites==
@@ -17620,25 +16990,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-2
+| type1=Bug
+| type2=Poison
+| no1=
+| name1=Parapupa
+| image1=
+| type1-1=Bug
+| type2-1=Water
+| no2=
+| name2=Leechito
+| image2=
+| type1-2=Bug
+| type2-2=Poison
 }}
 
 ==Sprites==
@@ -17796,25 +17160,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-1
+| type1=Bug
+| type2=Water
+| no1=
+| name1=Bubbelo
+| image1=
+| type1-1=Bug
+| type2-1=Water
 }}
 
 ==Sprites==
@@ -17981,25 +17334,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Ghost
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| type2=Ghost
+| no1=
+| name1=Parabox
+| image1=
+| type1-1=Normal
+| type2-1=Ghost
+| no2=
+| name2=Charmeow
+| image2=
+| type1-2=Normal
 }}
 
 ==Sprites==
@@ -18153,24 +17499,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| no1=
+| name1=Parabox
+| image1=
+| type1-1=Normal
+| type2-1=Ghost
+| no2=
+| name2=Charmeow
+| image2=
+| type1-2=Normal
 }}
 
 ==Sprites==
@@ -18315,24 +17654,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ghost
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ghost
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ghost
-| type2-2 = Ghost
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ghost
-| type2-3 = Ghost
+{{Evobox-2
+| type1=Ghost
+| no1=
+| name1=Parabox
+| image1=
+| type1-1=Normal
+| type2-1=Ghost
+| no2=
+| name2=Gambiss
+| image2=
+| type1-2=Ghost
 }}
 
 ==Sprites==
@@ -18474,24 +17806,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ground
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ground
-| type2-2 = Ground
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ground
-| type2-3 = Ground
+{{Evobox-1
+| type1=Ground
+| no1=
+| name1=Womburo
+| image1=
+| type1-1=Ground
 }}
 
 ==Sprites==
@@ -18651,25 +17971,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Rock
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Rock
+| no1=
+| name1=Gecrok
+| image1=
+| type1-1=Dark
+| type2-1=Rock
+| no2=
+| name2=Geckrotto
+| image2=
+| type1-2=Dark
+| type2-2=Rock
 }}
 
 ==Sprites==
@@ -18833,25 +18147,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Rock
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Rock
+| no1=
+| name1=Gecrok
+| image1=
+| type1-1=Dark
+| type2-1=Rock
+| no2=
+| name2=Geckrotto
+| image2=
+| type1-2=Dark
+| type2-2=Rock
 }}
 
 ==Sprites==
@@ -19000,25 +18308,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fairy
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fairy
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fairy
-| type2-2 = Fairy
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fairy
-| type2-3 = Fairy
+{{Evobox-1
+| type1=Fairy
+| type2=Dark
+| no1=
+| name1=Denturla
+| image1=
+| type1-1=Fairy
+| type2-1=Dark
 }}
 
 ==Sprites==
@@ -19177,24 +18474,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| no1=
+| name1=Lootcoot
+| image1=
+| type1-1=Normal
+| no2=
+| name2=Banditcoot
+| image2=
+| type1-2=Normal
+| type2-2=Dark
 }}
 
 ==Sprites==
@@ -19354,25 +18644,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Normal
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Normal
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Normal
-| type2-2 = Normal
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Normal
-| type2-3 = Normal
+{{Evobox-2
+| type1=Normal
+| type2=Dark
+| no1=
+| name1=Lootcoot
+| image1=
+| type1-1=Normal
+| no2=
+| name2=Banditcoot
+| image2=
+| type1-2=Normal
+| type2-2=Dark
 }}
 
 ==Sprites==
@@ -19526,25 +18809,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Grass
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+{{Evobox-2
+| type1=Grass
+| type2=Water
+| no1=
+| name1=Waddalog
+| image1=
+| type1-1=Grass
+| type2-1=Water
+| no2=
+| name2=Gondolog
+| image2=
+| type1-2=Grass
+| type2-2=Water
 }}
 
 ==Sprites==
@@ -19681,25 +18958,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Grass
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Grass
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Grass
-| type2-2 = Grass
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Grass
-| type2-3 = Grass
+{{Evobox-2
+| type1=Grass
+| type2=Water
+| no1=
+| name1=Waddalog
+| image1=
+| type1-1=Grass
+| type2-1=Water
+| no2=
+| name2=Gondolog
+| image2=
+| type1-2=Grass
+| type2-2=Water
 }}
 
 ==Sprites==
@@ -19855,25 +19126,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-1
+| type1=Bug
+| type2=Dark
+| no1=
+| name1=Ammoflage
+| image1=
+| type1-1=Bug
+| type2-1=Dark
 }}
 
 ==Sprites==
@@ -20028,25 +19288,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Steel
-| type2   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Steel
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Steel
-| type2-2 = Steel
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Steel
-| type2-3 = Steel
+{{Evobox-1
+| type1=Steel
+| type2=Ground
+| no1=
+| name1=Jurode
+| image1=
+| type1-1=Steel
+| type2-1=Ground
 }}
 
 ==Sprites==
@@ -20190,25 +19439,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| type2=Water
+| no1=
+| name1=Jelicur
+| image1=
+| type1-1=Electric
+| type2-1=Water
+| no2=
+| name2=Batterbox
+| image2=
+| type1-2=Electric
+| type2-2=Water
 }}
 
 ==Sprites==
@@ -20354,25 +19597,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| type2=Water
+| no1=
+| name1=Jelicur
+| image1=
+| type1-1=Electric
+| type2-1=Water
+| no2=
+| name2=Batterbox
+| image2=
+| type1-2=Electric
+| type2-2=Water
 }}
 
 ==Sprites==
@@ -20517,25 +19754,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| type2=Water
+| no1=
+| name1=Curijel
+| image1=
+| type1-1=Electric
+| type2-1=Water
+| no2=
+| name2=Cell-Jell
+| image2=
+| type1-2=Electric
+| type2-2=Water
 }}
 
 ==Sprites==
@@ -20673,25 +19904,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Electric
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Electric
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Electric
-| type2-2 = Electric
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Electric
-| type2-3 = Electric
+{{Evobox-2
+| type1=Electric
+| type2=Water
+| no1=
+| name1=Curijel
+| image1=
+| type1-1=Electric
+| type2-1=Water
+| no2=
+| name2=Cell-Jell
+| image2=
+| type1-2=Electric
+| type2-2=Water
 }}
 
 ==Sprites==
@@ -20878,25 +20103,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fire
-| type2   = Electric
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+{{Evobox-2
+| type1=Fire
+| type2=Electric
+| no1=
+| name1=Nion
+| image1=
+| type1-1=Fire
+| type2-1=Electric
+| no2=
+| name2=Plasla
+| image2=
+| type1-2=Fire
+| type2-2=Electric
 }}
 
 ==Sprites==
@@ -21049,25 +20268,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fire
-| type2   = Electric
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+{{Evobox-2
+| type1=Fire
+| type2=Electric
+| no1=
+| name1=Nion
+| image1=
+| type1-1=Fire
+| type2-1=Electric
+| no2=
+| name2=Plasla
+| image2=
+| type1-2=Fire
+| type2-2=Electric
 }}
 
 ==Sprites==
@@ -21222,25 +20435,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Psychic
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Psychic
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Psychic
-| type2-2 = Psychic
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Psychic
-| type2-3 = Psychic
+{{Evobox-1
+| type1=Psychic
+| type2=Water
+| no1=
+| name1=Climacule
+| image1=
+| type1-1=Psychic
+| type2-1=Water
 }}
 
 ==Sprites==
@@ -21389,25 +20591,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fairy
-| type2   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fairy
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fairy
-| type2-2 = Fairy
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fairy
-| type2-3 = Fairy
+{{Evobox-1
+| type1=Fairy
+| type2=Fire
+| no1=
+| name1=Apololo
+| image1=
+| type1-1=Fairy
+| type2-1=Fire
 }}
 
 ==Sprites==
@@ -21556,25 +20747,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fairy
-| type2   = Ice
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fairy
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fairy
-| type2-2 = Fairy
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fairy
-| type2-3 = Fairy
+{{Evobox-1
+| type1=Fairy
+| type2=Ice
+| no1=
+| name1=Dianan
+| image1=
+| type1-1=Fairy
+| type2-1=Ice
 }}
 
 ==Sprites==
@@ -21738,23 +20918,21 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+| type1=Dragon
+| no1=
+| name1=Thornie
+| image1=
+| type1-1=Dragon
+| no2=
+| name2=Thornihor
+| image2=
+| type1-2=Dragon
+| type2-2=Ground
+| no3=
+| name3=Thorniust
+| image3=
+| type1-3=Dragon
+| type2-3=Ground
 }}
 
 ==Sprites==
@@ -21924,24 +21102,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Dragon
-| type2   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+| type1=Dragon
+| type2=Ground
+| no1=
+| name1=Thornie
+| image1=
+| type1-1=Dragon
+| no2=
+| name2=Thornihor
+| image2=
+| type1-2=Dragon
+| type2-2=Ground
+| no3=
+| name3=Thorniust
+| image3=
+| type1-3=Dragon
+| type2-3=Ground
 }}
 
 ==Sprites==
@@ -22111,24 +21287,22 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Dragon
-| type2   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dragon
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dragon
-| type2-2 = Dragon
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dragon
-| type2-3 = Dragon
+| type1=Dragon
+| type2=Ground
+| no1=
+| name1=Thornie
+| image1=
+| type1-1=Dragon
+| no2=
+| name2=Thornihor
+| image2=
+| type1-2=Dragon
+| type2-2=Ground
+| no3=
+| name3=Thorniust
+| image3=
+| type1-3=Dragon
+| type2-3=Ground
 }}
 
 ==Sprites==
@@ -22273,25 +21447,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ice
-| type2   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ice
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ice
-| type2-2 = Ice
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ice
-| type2-3 = Ice
+{{Evobox-2
+| type1=Ice
+| type2=Bug
+| no1=
+| name1=Lobball
+| image1=
+| type1-1=Ice
+| type2-1=Bug
+| no2=
+| name2=Cryostacean
+| image2=
+| type1-2=Ice
+| type2-2=Bug
 }}
 
 ==Sprites==
@@ -22442,25 +21610,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ice
-| type2   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ice
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ice
-| type2-2 = Ice
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ice
-| type2-3 = Ice
+{{Evobox-2
+| type1=Ice
+| type2=Bug
+| no1=
+| name1=Lobball
+| image1=
+| type1-1=Ice
+| type2-1=Bug
+| no2=
+| name2=Cryostacean
+| image2=
+| type1-2=Ice
+| type2-2=Bug
 }}
 
 ==Sprites==
@@ -22602,23 +21764,19 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+| type1=Fire
+| no1=
+| name1=Tadplo
+| image1=
+| type1-1=Fire
+| no2=
+| name2=Ampherno
+| image2=
+| type1-2=Fire
+| no3=
+| name3=Bomboil
+| image3=
+| type1-3=Fire
 }}
 
 ==Sprites==
@@ -22762,23 +21920,19 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+| type1=Fire
+| no1=
+| name1=Tadplo
+| image1=
+| type1-1=Fire
+| no2=
+| name2=Ampherno
+| image2=
+| type1-2=Fire
+| no3=
+| name3=Bomboil
+| image3=
+| type1-3=Fire
 }}
 
 ==Sprites==
@@ -22918,23 +22072,19 @@ END==============================================
 ==Evolution==
 
 {{Evobox-3
-| type1   = Fire
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fire
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fire
-| type2-2 = Fire
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fire
-| type2-3 = Fire
+| type1=Fire
+| no1=
+| name1=Tadplo
+| image1=
+| type1-1=Fire
+| no2=
+| name2=Ampherno
+| image2=
+| type1-2=Fire
+| no3=
+| name3=Bomboil
+| image3=
+| type1-3=Fire
 }}
 
 ==Sprites==
@@ -23083,25 +22233,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-2
+| type1=Bug
+| type2=Ground
+| no1=
+| name1=Scortur
+| image1=
+| type1-1=Bug
+| type2-1=Ground
+| no2=
+| name2=Shelltur
+| image2=
+| type1-2=Bug
+| type2-2=Ground
 }}
 
 ==Sprites==
@@ -23237,25 +22381,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| type2   = Ground
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-2
+| type1=Bug
+| type2=Ground
+| no1=
+| name1=Scortur
+| image1=
+| type1-1=Bug
+| type2-1=Ground
+| no2=
+| name2=Shelltur
+| image2=
+| type1-2=Bug
+| type2-2=Ground
 }}
 
 ==Sprites==
@@ -23408,25 +22546,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| type2   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-1
+| type1=Poison
+| type2=Water
+| no1=
+| name1=Decaedile
+| image1=
+| type1-1=Poison
+| type2-1=Water
 }}
 
 ==Sprites==
@@ -23579,25 +22706,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Fighting
-| type2   = Dragon
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Fighting
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Fighting
-| type2-2 = Fighting
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Fighting
-| type2-3 = Fighting
+{{Evobox-1
+| type1=Fighting
+| type2=Dragon
+| no1=
+| name1=Wresall
+| image1=
+| type1-1=Fighting
+| type2-1=Dragon
 }}
 
 ==Sprites==
@@ -23752,25 +22868,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Rock
-| type2   = Poison
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Rock
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Rock
-| type2-2 = Rock
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Rock
-| type2-3 = Rock
+{{Evobox-1
+| type1=Rock
+| type2=Poison
+| no1=
+| name1=Stonely
+| image1=
+| type1-1=Rock
+| type2-1=Poison
 }}
 
 ==Sprites==
@@ -23916,24 +23021,17 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ghost
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ghost
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ghost
-| type2-2 = Ghost
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ghost
-| type2-3 = Ghost
+{{Evobox-2
+| type1=Ghost
+| no1=
+| name1=Vuudu
+| image1=
+| type1-1=Ghost
+| no2=
+| name2=Maniakin
+| image2=
+| type1-2=Ghost
+| type2-2=Psychic
 }}
 
 ==Sprites==
@@ -24083,25 +23181,18 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ghost
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ghost
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ghost
-| type2-2 = Ghost
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ghost
-| type2-3 = Ghost
+{{Evobox-2
+| type1=Ghost
+| type2=Psychic
+| no1=
+| name1=Vuudu
+| image1=
+| type1-1=Ghost
+| no2=
+| name2=Maniakin
+| image2=
+| type1-2=Ghost
+| type2-2=Psychic
 }}
 
 ==Sprites==
@@ -24242,24 +23333,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Bug
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Bug
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Bug
-| type2-2 = Bug
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Bug
-| type2-3 = Bug
+{{Evobox-1
+| type1=Bug
+| no1=
+| name1=Inflatant
+| image1=
+| type1-1=Bug
 }}
 
 ==Sprites==
@@ -24409,25 +23488,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Poison
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Poison
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Poison
-| type2-2 = Poison
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Poison
-| type2-3 = Poison
+{{Evobox-1
+| type1=Poison
+| type2=Psychic
+| no1=
+| name1=Ophiuceus
+| image1=
+| type1-1=Poison
+| type2-1=Psychic
 }}
 
 ==Sprites==
@@ -24560,25 +23628,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Psychic
+| no1=
+| name1=Anoctopus
+| image1=
+| type1-1=Dark
+| type2-1=Psychic
+| no2=
+| name2=Rorshark
+| image2=
+| type1-2=Dark
+| type2-2=Psychic
 }}
 
 ==Sprites==
@@ -24712,25 +23774,19 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Dark
-| type2   = Psychic
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Dark
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Dark
-| type2-2 = Dark
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Dark
-| type2-3 = Dark
+{{Evobox-2
+| type1=Dark
+| type2=Psychic
+| no1=
+| name1=Anoctopus
+| image1=
+| type1-1=Dark
+| type2-1=Psychic
+| no2=
+| name2=Rorshark
+| image2=
+| type1-2=Dark
+| type2-2=Psychic
 }}
 
 ==Sprites==
@@ -24885,25 +23941,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Ghost
-| type2   = Dark
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Ghost
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Ghost
-| type2-2 = Ghost
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Ghost
-| type2-3 = Ghost
+{{Evobox-1
+| type1=Ghost
+| type2=Dark
+| no1=
+| name1=Mairkura
+| image1=
+| type1-1=Ghost
+| type2-1=Dark
 }}
 
 ==Sprites==
@@ -25047,24 +24092,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+{{Evobox-1
+| type1=Water
+| no1=
+| name1=Buoychin
+| image1=
+| type1-1=Water
 }}
 
 ==Sprites==
@@ -25204,24 +24237,12 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Water
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+{{Evobox-1
+| type1=Water
+| no1=
+| name1=Echinaut
+| image1=
+| type1-1=Water
 }}
 
 ==Sprites==
@@ -25364,25 +24385,14 @@ END==============================================
 
 ==Evolution==
 
-{{Evobox-3
-| type1   = Water
-| type2   = Steel
-| no1     = 
-| name1   = 
-| image1  = 
-| type1-1 = Water
-| evo1    = 
-| no2     = 
-| name2   = 
-| image2  = 
-| type1-2 = Water
-| type2-2 = Water
-| evo2    = 
-| no3     = 
-| name3   = 
-| image3  = 
-| type1-3 = Water
-| type2-3 = Water
+{{Evobox-1
+| type1=Water
+| type2=Steel
+| no1=
+| name1=Navarine
+| image1=
+| type1-1=Water
+| type2-1=Steel
 }}
 
 ==Sprites==

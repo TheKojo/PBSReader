@@ -9,9 +9,13 @@ import java.util.Scanner;
 
 public class PkmDataReader {
 	
+	public Hashtable<Integer, Pokemon> pokemonList = new Hashtable<Integer, Pokemon>();
+	public Hashtable<String, Integer> nameLookup = new Hashtable<String, Integer>();
+	
 	public Hashtable<Integer, Pokemon> readData() {
 		File inputFile = new File("src/input/pokemon.txt");
-		Hashtable<Integer, Pokemon> pokemonList = new Hashtable<Integer, Pokemon>();
+		//Hashtable<Integer, Pokemon> pokemonList = new Hashtable<Integer, Pokemon>();
+		//Hashtable<String, Integer> nameLookup = new Hashtable<String, Integer>();
 		int indexStart = 722;
 		boolean v17 = true;
 		
@@ -20,7 +24,6 @@ public class PkmDataReader {
 	        capsHandling capsHandler = new capsHandling();
 	        while (sc.hasNextLine()) {
 	            String i = sc.nextLine();
-	            System.out.println(i);
 	            
 	            //Loop
 	            while (i.startsWith("["+indexStart)){
@@ -32,9 +35,10 @@ public class PkmDataReader {
 	            	i = sc.nextLine();
 	            	currPokemon.name = i.substring(i.lastIndexOf("=")+1);
 	            	
-	            	//Skip internal name
+	            	//Internal name
 	            	i = sc.nextLine();
 	            	String internalName = i.substring(i.lastIndexOf("=")+1);
+	            	currPokemon.internalName = internalName;
 	            	
 	            	//Types 1
 	            	i = sc.nextLine(); 
@@ -255,6 +259,23 @@ public class PkmDataReader {
 	        		i = sc.nextLine();
 	        		
 	        		//Skip Evolution
+	        		String evos = i.substring(i.lastIndexOf("=")+1);
+	        		ArrayList<String>evoList = new ArrayList<String>(Arrays.asList(evos.split(",")));
+	        		if (evoList.size()>1) {
+	        			if (evoList.size() == 2) {
+	        				evoList.add("");
+	        			}
+		        		for (int j = 0; j<evoList.size(); j+=3) {
+		        			Evolution evolution = new Evolution();
+		        			evolution.name = evoList.get(j);
+		        			evolution.method = evoList.get(j+1);
+		        			evolution.req = evoList.get(j+2);
+		        			
+		        			currPokemon.evolutions.add(evolution);
+		        		}
+	        		}
+
+	        		
 	        		if (sc.hasNextLine()){
 	        			i = sc.nextLine(); 
 	        		}
@@ -266,6 +287,7 @@ public class PkmDataReader {
 	        		//prevSpecies = pokemonName;
 	            	
 	        		pokemonList.put(currPokemon.internalNum, currPokemon);
+	        		nameLookup.put(internalName,currPokemon.internalNum);
 	        		indexStart++;
 	            }
 	            	
@@ -275,6 +297,19 @@ public class PkmDataReader {
 	    catch (FileNotFoundException e) {
 	        e.printStackTrace();
 	    }
+		
+		//Find pre-evos
+		for (int i = 0; i<pokemonList.size(); i++) {
+			Pokemon currPokemon = pokemonList.get(i+722);
+			for (int j = 0; j<currPokemon.evolutions.size(); j++) {
+				Evolution currEvo = currPokemon.evolutions.get(j);
+				if (nameLookup.containsKey(currEvo.name)){
+					pokemonList.get(nameLookup.get(currEvo.name)).preevo = currPokemon.internalName;
+				}
+				
+			}
+		}
+		
 		
 		return pokemonList;
 	}

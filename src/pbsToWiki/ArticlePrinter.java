@@ -8,7 +8,7 @@ import java.util.Hashtable;
 
 public class ArticlePrinter {
 
-	public void printData(Hashtable<Integer, Pokemon> pkmList) throws FileNotFoundException, UnsupportedEncodingException {
+	public void printData(Hashtable<Integer, Pokemon> pkmList, Hashtable<String, Integer> nameList) throws FileNotFoundException, UnsupportedEncodingException {
 		PrintWriter outputWriter = new PrintWriter("src/output/wikitext.txt", "UTF-8");
 		capsHandling capsHandler = new capsHandling();
 		int startIndex = 722;
@@ -277,30 +277,44 @@ public class ArticlePrinter {
 			else{
 				outputWriter.println("{{MoveBreedEnd|"+currPokemon.name+"|"+currPokemon.type1+"|"+currPokemon.type1+"}}");
 			}
+			
+			System.out.println(currPokemon.name);
+			ArrayList<Pokemon> line = currPokemon.getEvolutionLine(pkmList, nameList);
+			int position = 0;
+			int familySize = line.size();
+			for (int j = 0; j<line.size(); j++) {
+				if (line.get(j).internalName.equals(currPokemon.internalName)){
+					position = j;
+				}
+					
+			}
+			
 			outputWriter.println("");
 			outputWriter.println("==Evolution==");
 			outputWriter.println("");
-			outputWriter.println("{{Evobox-3");
-			outputWriter.println("| type1   = "+currPokemon.type1);
+			outputWriter.println("{{Evobox-"+familySize);
+			outputWriter.println("| type1="+currPokemon.type1);
 			if (currPokemon.type2.length()>0){
-				outputWriter.println("| type2   = "+currPokemon.type2);
+				outputWriter.println("| type2="+currPokemon.type2);
 			}
-			outputWriter.println("| no1     = ");
-			outputWriter.println("| name1   = ");
-			outputWriter.println("| image1  = ");
-			outputWriter.println("| type1-1 = "+currPokemon.type1);
-			outputWriter.println("| evo1    = ");
-			outputWriter.println("| no2     = ");
-			outputWriter.println("| name2   = ");
-			outputWriter.println("| image2  = ");
-			outputWriter.println("| type1-2 = "+currPokemon.type1);
-			outputWriter.println("| type2-2 = "+currPokemon.type1);
-			outputWriter.println("| evo2    = ");
-			outputWriter.println("| no3     = ");
-			outputWriter.println("| name3   = ");
-			outputWriter.println("| image3  = ");
-			outputWriter.println("| type1-3 = "+currPokemon.type1);
-			outputWriter.println("| type2-3 = "+currPokemon.type1);
+			for (int j = 0; j<line.size(); j++) {
+				Pokemon currPkm = line.get(j);
+				String num = "";
+				if (currPkm.dexNum < 10) {
+					num = "00"+currPkm.dexNum;
+				}
+				else if (currPkm.dexNum < 100) {
+					num = "0"+currPkm.dexNum;
+				}
+				
+				outputWriter.println("| no"+(j+1)+"="+num);
+				outputWriter.println("| name"+(j+1)+"="+currPkm.name);
+				outputWriter.println("| image"+(j+1)+"=");
+				outputWriter.println("| type1-"+(j+1)+"="+currPkm.type1);
+				if (currPkm.type2.length()>0){
+					outputWriter.println("| type2-"+(j+1)+"="+currPkm.type2);
+				}
+			}
 			outputWriter.println("}}");
 			outputWriter.println("");
 			outputWriter.println("==Sprites==");

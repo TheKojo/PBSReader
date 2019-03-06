@@ -3,12 +3,14 @@ package pbsToWiki;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Hashtable;
 import java.util.Scanner;
 
 public class Pokemon {
 	
 	public int internalNum = -1;
 	public int dexNum = -1;
+	public String internalName = "";
 	public String name = "";
 	public String type1 = "";
 	public String type2 = "";
@@ -54,9 +56,11 @@ public class Pokemon {
 	ArrayList<String> movesList = new ArrayList<String>();
 	ArrayList<String> eggMovesList = new ArrayList<String>();
 	ArrayList<TM> tmList = new ArrayList<TM>();
-	Pokemon evolution;
+	ArrayList<Evolution> evolutions = new ArrayList<Evolution>();
+	String preevo = "";
 	
-	public File inputFile = new File("src/input/tm.txt");
+	public File pkmFile = new File("src/input/pokemon.txt");
+	public File tmFile = new File("src/input/tm.txt");
 	capsHandling capsHandler = new capsHandling();
 	
 	public Pokemon(int num) {
@@ -66,7 +70,7 @@ public class Pokemon {
 	public void getTMs() {
 		int num = 0;
 		try {
-			Scanner sc = new Scanner(inputFile,"UTF-8");
+			Scanner sc = new Scanner(tmFile,"UTF-8");
 			while (sc.hasNextLine()) {
 				String i = sc.nextLine();
 				
@@ -89,8 +93,55 @@ public class Pokemon {
 	    }
 	}
 	
-	public void getEvolutionLine() {
+	public ArrayList<Pokemon> getEvolutionLine(Hashtable<Integer, Pokemon> pokemonList, Hashtable<String, Integer> nameLookup) {
 		
+		//prevos
+		ArrayList<Pokemon> family = getPreevos(pokemonList,nameLookup,true);
+		
+		//self
+		family.add(this);
+
+		//evos
+		family.addAll(getEvos(pokemonList,nameLookup));
+				
+		return family;
+	}
+	
+	public ArrayList<Pokemon> getEvos(Hashtable<Integer, Pokemon> pokemonList, Hashtable<String, Integer> nameLookup){
+		ArrayList<Pokemon> evos = new ArrayList<Pokemon>();
+		if (evolutions.size() > 0 && nameLookup.containsKey(evolutions.get(0).name)) {
+			Pokemon currEvo = pokemonList.get(nameLookup.get(evolutions.get(0).name));
+			evos.add(currEvo);
+			if (nameLookup.containsKey(currEvo.internalName)){
+				Integer evoID = nameLookup.get(currEvo.internalName);
+				//Pokemon evoPkm = pokemonList.get(evoID);
+				evos.addAll(currEvo.getEvos(pokemonList,nameLookup));
+			}
+		}
+		return evos;
+	}
+	
+	public ArrayList<Pokemon> getPreevos(Hashtable<Integer, Pokemon> pokemonList, Hashtable<String, Integer> nameLookup, boolean exclude) {
+		ArrayList<Pokemon> preevos = new ArrayList<Pokemon>();
+		 
+		//Pokemon currPreevo =  pokemonList.get(nameLookup.get(preevo));
+		if (preevo.length()==0) {//(!nameLookup.containsKey(currPreevo)){
+			if (!exclude){
+				preevos.add(this);
+			}
+			
+		}
+		else {
+			Integer preevoID = nameLookup.get(preevo.toUpperCase());
+			Pokemon preevoPkm = pokemonList.get(preevoID);
+			preevos = preevoPkm.getPreevos(pokemonList, nameLookup, false);
+			if (!exclude){
+				preevos.add(this);
+			}
+		}
+
+	
+		return preevos;
 	}
 
 }

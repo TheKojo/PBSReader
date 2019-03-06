@@ -14,9 +14,10 @@ public class PBSWikiConverter {
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 		PkmDataReader dataReader = new PkmDataReader();
 		Hashtable<Integer, Pokemon> pkmList = dataReader.readData();
+		Hashtable<String, Integer> nameList = dataReader.nameLookup;
 	    
 	    ArticlePrinter dataPrinter = new ArticlePrinter();
-	    dataPrinter.printData(pkmList);
+	    dataPrinter.printData(pkmList,nameList);
 	    //dataPrinter.printDexList(pkmList);
 
 		System.out.println("done");
